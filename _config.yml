@@ -1,21 +1,19 @@
 
-title: Varlam.net
-description: varlam.net
-author: Varlam
+title: Seregina.info
+description: seregina.info
+author: Ekaterina
 navbar-links:
   Blog: "Blog"
   Research : "Working"
   Teaching: "Teaching"
 social-network-links:
-  email: "varlam@varlam.net"
-  github: varlamnet
-  twitter: varlamnet
-  reddit: varlamnet
+  email: "ekaterina.seregina@email.ucr.edu"
+  github: ekat92
 share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-url-pretty: "varlam.net"
+url-pretty: "seregina.info"
 link-tags: true
 excerpt_length: 50
 navbar-col: "
