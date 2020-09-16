@@ -1,0 +1,259 @@
+---
+layout: page
+title: 
+subtitle: ""
+---
+<style>
+img:hover {
+  filter:drop-shadow(0px 0px 5px var(--footertextcol));
+}
+.card-img-top{
+  filter: grayscale(50%);
+}
+  .roundedpic {
+    border-radius: 25%;
+  }
+  .socialcolor{
+    color: var(--footertextcol);
+  }
+  .btn-new{
+    background-color:var(--footertextcol);color: var(--backcol);
+  }
+  .btn-new:hover{
+    background-color:var(--posthovercol);color: white;
+    }
+  .wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  }
+  .wrapper > * {
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 10px;
+  }
+  .wrapper {
+  display: grid;
+  grid-template-columns: repeat(12, [col-start] 1fr);
+  grid-gap: 5px;
+  }
+  .item1 {
+  grid-column: col-start 1 / span 3;
+  grid-row: 1 / 9;
+  }
+  .item2 {
+  grid-column: col-start 4 / span 9 ;
+  grid-row: 1 / 9;
+  }
+ .badge{
+    padding: 3px 8px 5px;
+    font-size: inherit;
+    font-weight: inherit;
+    background-color:var(--headbackcol);
+    border-radius: 9px;
+  }
+  .badge:hover, .badge:focus{
+    color:var(--headbackcol);
+    background-color:var(--footertextcol);
+    cursor: pointer;
+  }
+  .card{
+    color: inherit;
+    background-color:var(--headbackcol);
+    border-radius: 5px;
+  }
+  .modal-content{
+    background-color: var(--headbackcol);
+  }
+  input, textarea
+  {
+    background-color: var(--footertextcol);
+    width: 90%;
+  }
+  ::placeholder { 
+    color: var(--backcol);
+    opacity: 1; 
+  }
+</style>
+
+<div class="wrapper">
+    <div class="item1">
+      <center><p><img class = "roundedpic" src="assets/img/mainpic.jpg" alt="Profile pic" style="width:100%;border:0px solid black" data-toggle="tooltip" data-placement="auto" title="Yup, thats me"></p></center>
+    </div>
+  <div class="item2">
+    <span style="display:block; height: 20px;"></span>
+    <a style="font-size:35px;">Varlam Kutateladze</a> <br>
+    <a>PhD Candidate in Economics</a> <br>
+    <span style="display:block; height: 15px;"></span>
+
+    <a class ="socialcolor" href="mailto:{{ site.social-network-links.email }}" data-toggle="tooltip" data-placement="auto" title="varlam [at] varlam [dot] net" >
+      <i class="fas fa-envelope fa-2x"></i></a>
+      <span style="padding-left:20px">
+    <a class ="socialcolor" href="https://github.com/{{ site.social-network-links.github }}" data-toggle="tooltip" data-placement="auto" title="{{ site.social-network-links.github }}">
+      <i class="fab fa-github fa-2x"></i></a>
+      <span style="padding-left:20px"></span>
+    <a class ="socialcolor" href="https://twitter.com/{{ site.social-network-links.twitter }}" data-toggle="tooltip" data-placement="auto" title="{{ site.social-network-links.twitter }}">
+      <i class="fab fa-twitter fa-2x"></i></a>
+      <span style="padding-left:20px"></span>
+    <span style="display:block; height: 15px;"></span>
+
+    <span data-toggle="tooltip" data-placement="auto" title="1-page CV">
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm"><i class="fas fa-file-pdf fa-lg"></i><b> CV</b></a> 
+    </span>
+    <span style="padding-left:20px"></span>
+    <span data-toggle="tooltip" data-placement="auto" title="Contact me!">
+      <button type="button" class="btn btn-new btn-sm" data-toggle="modal" data-target="#exampleModalScrollable">
+      <i class="fas fa-paper-plane fa-lg"></i><b> Contact</b></button>
+    </span>
+
+    <span style="display:block; height: 15px;"></span>
+
+    <a>I am on the Job Market 2020-2021!</a>
+  </div>
+</div>
+
+
+<!-- Modal START-->
+<div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalScrollableTitle">Contact me</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"><i class="fas fa-times"></i></span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <script type="text/javascript">var submitted=false;</script>
+          <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  
+          {window.location='thanks';}"></iframe>
+          <center>
+          <form action="https://docs.google.com/forms/u/3/d/e/1FAIpQLSfUu55H5atgkBN96fEOuh-KAJaWjiyivQ4Wq9jwNpOTu7VvwQ/formResponse" 
+          method="post" target="hidden_iframe" onsubmit="submitted=true;">
+          <input type="text" placeholder="Name" name="entry.2005620554" required>
+          <span style="display:block; height: 20px;"></span>
+          <input type="email" placeholder="Email" name="entry.1045781291" required>
+          <span style="display:block; height: 20px;"></span>
+          <textarea rows="10" placeholder="Message" name="entry.1240613037" required></textarea>
+          <span style="display:block; height: 20px;"></span>
+          <button type="submit" class="btn btn-new btn">Send</button>
+          </form>
+          </center>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal END-->
+
+<div>
+  <i class="fas fa-check"></i><b> BIO</b><span style="display:block; height: 15px;"></span>
+
+  PhD researcher with 3+ years of experience in predictive modeling and statistical inference
+  using data science & machine learning methods. Also
+  3+ years of teaching experience in econometrics, statistics, etc.
+
+  <span style="display:block; height: 15px;"></span>
+  <i class="fas fa-check"></i><b> Research area</b><span style="display:block; height: 15px;"></span>
+  <span class="badge">Machine Learning</span>
+  <span class="badge">High-Dimensional Statistics</span>
+  <span class="badge">Nonlinear Methods</span>
+  <span class="badge">Spectral Methods</span>
+  <span class="badge">Factor Modeling</span>
+  <span class="badge">Covariance Estimation</span>
+  <span class="badge">Random Matrix Theory</span>
+  <span class="badge">Forecasting</span>
+  <span class="badge">Causal Inference</span> 
+
+</div>
+
+
+<!-- LINE & JUMP -->
+<span style="display:block; height: 20px;"></span>
+<!-- <hr style="border-top: 1px solid grey"> -->
+
+<i class="fas fa-check"></i><b> Projects</b><span style="display:block; height: 15px;"></span>
+A few Python side-projects related to AI/ML/DL, which I will place down below hopefully very soon.
+
+<!-- LINE & JUMP -->
+<span style="display:block; height: 20px;"></span>
+
+
+<div class="card-deck">
+  <div class="card" style="width: 50%;height: 50%;">
+    <img src="assets/img/stat.jpg" class="card-img-top" data-toggle="modal" data-target="#Imgid" style="cursor:pointer">
+    <div class="card-body">
+      <h3 class="card-title">Title</h3>
+      <p class="card-text">To be added soon.</p>
+    </div>
+  </div>
+  <div class="card" style="width: 50%;height: 50%;">
+    <img src="assets/img/stat.jpg" class="card-img-top" data-toggle="modal" data-target="#Imgid" style="cursor:pointer">
+    <div class="card-body">
+      <h3 class="card-title">Title</h3>
+      <p class="card-text">To be added soon.</p>
+    </div>
+  </div> 
+  <div class="card" style="width: 50%;height: 50%;">
+    <img src="assets/img/abc.gif" class="card-img-top" data-toggle="modal" data-target="#halite" style="cursor:pointer">
+    <div class="card-body">
+      <h3 class="card-title">Halite</h3>
+      <p class="card-text">AI Competition by Two Sigma.</p>
+    </div>
+  </div> 
+</div>
+
+<!-- Modal Halite-->
+<div class="modal fade bd-example-modal-lg" id="halite" tabindex="-1" role="dialog" aria-labelledby="haliteTitle" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="haliteTitle">Halite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"><i class="fas fa-times"></i></span>
+        </button>
+      </div>
+      <div class="modal-body" style="display:block; padding:30px">
+        My first Python machine learning competition. The two main ingredients for my bot were linear programming (so that agents do not crash into one another) and 
+        a simple keras neural net (PyTorch was not that popular then) governing high-level decisions (i.e. where to set a new base or which area to direct the ships),
+        which was trained on self-play.<br><br>
+        Did not have much time to compete, but even this relatively simple algorithm outperformed nearly 99% participants. Below are some of the winning games.
+        <p style="text-align:center">
+          <img src="assets/img/abc.gif" style="width:75%;border:0px solid black">
+        </p>
+        <p style="text-align:center">
+          <img src="assets/img/abc2.gif" style="width:75%;border:0px solid black">
+        </p>
+        <p style="text-align:center">
+          <img src="assets/img/abc3.gif" style="width:75%;border:0px solid black">
+        </p>
+        <p style="text-align:center">
+          <img src="assets/img/abc4.gif" style="width:75%;border:0px solid black">
+        </p>
+        <p style="text-align:center">
+          <img src="assets/img/abc5.gif" style="width:75%;border:0px solid black">
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal Halite-->
+
+<!-- Modal Imgid-->
+<div class="modal fade bd-example-modal-lg" id="Imgid" tabindex="-1" role="dialog" aria-labelledby="ImgidTitle" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="ImgidTitle">Title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"><i class="fas fa-times"></i></span>
+        </button>
+      </div>
+      <div class="modal-body" style="display:block; padding:30px">
+        Come back later!
+        <p style="text-align:center">
+          <img src="assets/img/stat.jpg" style="width:75%;border:0px solid black">
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal Imgid-->
