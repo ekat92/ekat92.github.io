@@ -32,7 +32,11 @@ img:hover {
   padding: 10px;
   }
   .wrapper {
-  display: grid;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: space-between;
+  justify-content: left;
   grid-template-columns: repeat(12, [col-start] 1fr);
   grid-gap: 5px;
   }
@@ -60,6 +64,8 @@ img:hover {
     color: inherit;
     background-color:var(--headbackcol);
     border-radius: 5px;
+    width: 50%;
+    height: 50%;
   }
   .modal-content{
     background-color: var(--headbackcol);
@@ -73,14 +79,31 @@ img:hover {
     color: var(--backcol);
     opacity: 1; 
   }
+  @media screen and (max-width: 550px) {
+    .wrapper {
+  justify-content: center;
+  }
+  .item1{
+    max-height: 235px;
+  }
+  .item2{
+    text-align: center;
+  }
+  .card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    width: 100%;
+    height: 100%;
+  }
+}
 </style>
-
+<p style="margin-bottom:-1cm;"></p>
 <div class="wrapper">
     <div class="item1">
       <center><p><img class = "roundedpic" src="assets/img/mainpic.jpg" alt="Profile pic" style="width:100%;border:0px solid black" data-toggle="tooltip" data-placement="auto" title="Yup, thats me"></p></center>
     </div>
   <div class="item2">
-    <span style="display:block; height: 20px;"></span>
     <a style="font-size:35px;">Varlam Kutateladze</a> <br>
     <a>PhD Candidate in Economics</a> <br>
     <span style="display:block; height: 15px;"></span>
@@ -178,21 +201,21 @@ A few Python side-projects related to AI/ML/DL, which I will place down below ho
 
 
 <div class="card-deck">
-  <div class="card" style="width: 50%;height: 50%;">
+  <div class="card">
     <img src="assets/img/stat.jpg" class="card-img-top" data-toggle="modal" data-target="#Imgid" style="cursor:pointer">
     <div class="card-body">
       <h3 class="card-title">Title</h3>
       <p class="card-text">To be added soon.</p>
     </div>
   </div>
-  <div class="card" style="width: 50%;height: 50%;">
+  <div class="card">
     <img src="assets/img/stat.jpg" class="card-img-top" data-toggle="modal" data-target="#Imgid" style="cursor:pointer">
     <div class="card-body">
       <h3 class="card-title">Title</h3>
       <p class="card-text">To be added soon.</p>
     </div>
   </div> 
-  <div class="card" style="width: 50%;height: 50%;">
+  <div class="card">
     <img src="assets/img/abc.gif" class="card-img-top" data-toggle="modal" data-target="#halite" style="cursor:pointer">
     <div class="card-body">
       <h3 class="card-title">Halite</h3>
