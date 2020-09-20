@@ -26,6 +26,9 @@ img:hover {
   max-width: 1024px;
   margin: 0 auto;
   }
+  .wrapper p{
+  margin: 0 auto;
+  }
   .wrapper > * {
   background-color: transparent;
   border-radius: 5px;
@@ -79,12 +82,12 @@ img:hover {
     color: var(--backcol);
     opacity: 1; 
   }
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 700px) {
     .wrapper {
   justify-content: center;
   }
   .item1{
-    max-height: 235px;
+    max-height: 500px;
   }
   .item2{
     text-align: center;
@@ -102,7 +105,7 @@ img:hover {
 <p style="margin-bottom:-1cm;"></p>
 <div class="wrapper">
     <div class="item1">
-      <center><p><img class = "roundedpic" src="assets/img/profile.jpg" alt="Profile pic" style="width:300px;border:0px solid black" data-toggle="tooltip" data-placement="auto" title="Yup, thats me"></p></center>
+      <center><p><img class = "roundedpic" src="assets/img/profile.jpg" alt="Profile pic" style="width:320px;border:0px solid black" data-toggle="tooltip" data-placement="auto" title="Yup, thats me"></p></center>
     </div>
   <div class="item2">
     <a style="font-size:35px;">Ekaterina Seregina</a> <br>
@@ -130,7 +133,9 @@ img:hover {
 
     <span style="display:block; height: 15px;"></span>
 
-    <a>I am on the Job Market 2020-2021!</a>
+    <div class="typewriter">
+      <div class="typewriter-text">I am on the Job Market 2020-2021!</div>
+    </div>
   </div>
 </div>
 
@@ -166,6 +171,9 @@ img:hover {
   </div>
 </div>
 <!-- Modal END-->
+
+<!-- Jump -->
+<span style="display:block; height: 25px;"></span>
 
 <div>
   <i class="fas fa-check"></i><b> BIO</b><span style="display:block; height: 15px;"></span>
