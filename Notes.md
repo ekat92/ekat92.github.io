@@ -1,7 +1,6 @@
 ---
 layout: home
-title: All of Data Science 
-subtitle: Stat, ML/AI, Econ
+title: Notes
 ---
 <style>
   .alert {
