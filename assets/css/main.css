@@ -89,7 +89,7 @@ html, html[data-theme="light"] {
   --h4col: #404040;
   --headsubtextcol: #404040;
   --acol: #FF3156;       
-  --afocus: #ff98ab;    
+  --afocus: #FF4B6B;    
   --ahover: #FF3156;     
   --blockqcol: #808080;                                         /* --- not sure --- */
   --selectiontextcol: white; 
@@ -108,7 +108,7 @@ html, html[data-theme="light"] {
   /* --- Tags --- */
   --tagcol:  #999;
   --decorcol: #FF3156;
-  --taglinkcol:  #ff98ab;
+  --taglinkcol:  #FF4B6B;
   --taglinkbackcol: #EEE;
   /* --- Post and page headers --- */
   --postheadercol: #404040; 
@@ -154,26 +154,26 @@ html[data-theme="dark"] {
   /* --- Navbar --- */
   --headbackcol: #151515;
   --headborderbottom:transparent;
-  --headhovercol: #ff98ab;
+  --headhovercol: #FF4B6B;
   --headtextcol: rgba(255, 255, 255, 0.85);
-  --headtogglercol: rgba(255,49,86, 1);                    /* --- Mobile toggler active --- */
-  --headtogglermobilecol:rgba(255,49,86, 0.5);             /* --- Mobile toggler before --- */
-  --headtogglermobilecol2:rgba(255,49,86, 0.5);            /* --- Mobile toggler after --- */
-  --headdropdownhovercol: rgba(255,49,86, 0.3);
-  --headdropdownshowcol: rgba(255,49,86, 0.3);
+  --headtogglercol: rgb(41, 37, 37);                    /* --- Mobile toggler active --- */
+  --headtogglermobilecol:rgba(255,49,86, 1);             /* --- Mobile toggler before --- */
+  --headtogglermobilecol2:rgba(255,49,86, 1);            /* --- Mobile toggler after --- */
+  --headdropdownhovercol: rgba(255,49,86, 1);
+  --headdropdownshowcol: rgba(255,49,86, 1);
   --headdropdownbackcol: #151515;
   --headdropdownbordercol: transparent;
   --headdropdownbordertopcol: #FF4B6B;                      /* --- Mobile toggler bottom line --- */
   --headdropdownitemback: #FF4B6B;
   --headdropdowntextcol: rgba(255, 255, 255, 0.85);
-  --headdropdowntexthovercol: #ff98ab; 
+  --headdropdowntexthovercol: #FF4B6B; 
   /* --- Main --- */
   --bodytextcol: rgba(255, 255, 255, 0.85);
   --backcol: #202020 ;
-  --h1col: #ffeb3b;
-  --h2col: #ffeb3b;
-  --h3col: #ffeb3b;
-  --h4col: #ffeb3b;
+  --h1col: #FF4B6B;
+  --h2col: #FF4B6B;
+  --h3col: #FF4B6B;
+  --h4col: #FF4B6B;
   --headsubtextcol: rgba(255, 255, 255, 0.85);
   --acol: rgba(255,126,149, 0.7);       
   --afocus: rgba(255,126,149, 1);     
@@ -190,12 +190,12 @@ html[data-theme="dark"] {
   --postlinecol: rgba(255, 255, 255, 0.15);
   --postsubtextcol: rgba(255, 255, 255, .85);
   --postreadmorecol: rgba(255, 255, 255, .85);
-  --posthovercol: #ff98ab;
+  --posthovercol: #FF4B6B;
   --postdatecol: rgba(255, 255, 255, 0.6);
   /* --- Tags --- */
   --tagcol:  rgba(255, 255, 255, 0.6);
   --decorcol: #ce93d8;
-  --taglinkcol:  #ff98ab;
+  --taglinkcol:  #FF4B6B;
   --taglinkbackcol: rgba(255,126,149, 0.1);
   /* --- Post and page headers --- */
   --postheadercol: rgba(255, 255, 255, 0.85); 
@@ -204,7 +204,7 @@ html[data-theme="dark"] {
   --pagebuttonbackcol: #151515;
   --pagebuttoncolor: rgba(255, 255, 255, .85);
   --pagebuttonbordercol: transparent;
-  --pagelinkfocustextcol: #ff98ab;
+  --pagelinkfocustextcol: #FF4B6B;
   --pagelinkfocusbordercol: transparent;
   --pagelinkfocusbackcol: rgba(255,49,86, 0.3);
   /* --- Tables --- */
@@ -222,7 +222,7 @@ html[data-theme="dark"] {
   --codebordercol: #151515;
   --codeborderleftcol: rgba(255,49,86, 0.3);
   --codeborderrightcol: rgba(255,49,86, 0.3);
-  --codehighlighttextcol: #ff98ab;
+  --codehighlighttextcol: #FF4B6B;
   /* --- Notification boxes --- */
   --notifbordercol: transparent;
   --notebackcol: rgba(255,49,86, 0.2);
@@ -243,26 +243,26 @@ html[data-theme="dark"] {
     /* --- Navbar --- */
     --headbackcol: #151515;
   --headborderbottom:transparent;
-  --headhovercol: #ff98ab;
+  --headhovercol: #FF4B6B;
   --headtextcol: rgba(255, 255, 255, 0.85);
   --headtogglercol: rgba(255,49,86, 1);                    /* --- Mobile toggler active --- */
-  --headtogglermobilecol:rgba(255,49,86, 0.5);             /* --- Mobile toggler before --- */
-  --headtogglermobilecol2:rgba(255,49,86, 0.5);            /* --- Mobile toggler after --- */
-  --headdropdownhovercol: rgba(255,49,86, 0.3);
-  --headdropdownshowcol: rgba(255,49,86, 0.3);
+  --headtogglermobilecol:rgba(255,49,86, 1);             /* --- Mobile toggler before --- */
+  --headtogglermobilecol2:rgba(255,49,86, 1);            /* --- Mobile toggler after --- */
+  --headdropdownhovercol: rgba(255,49,86, 1);
+  --headdropdownshowcol: rgba(255,49,86, 1);
   --headdropdownbackcol: #151515;
   --headdropdownbordercol: transparent;
   --headdropdownbordertopcol: #FF4B6B;                      /* --- Mobile toggler bottom line --- */
   --headdropdownitemback: #FF4B6B;
   --headdropdowntextcol: rgba(255, 255, 255, 0.85);
-  --headdropdowntexthovercol: #ff98ab; 
+  --headdropdowntexthovercol: #FF4B6B; 
   /* --- Main --- */
   --bodytextcol: rgba(255, 255, 255, 0.85);
   --backcol: #202020 ;
-  --h1col: #ffeb3b;
-  --h2col: #ffeb3b;
-  --h3col: #ffeb3b;
-  --h4col: #ffeb3b;
+  --h1col: #FF4B6B;
+  --h2col: #FF4B6B;
+  --h3col: #FF4B6B;
+  --h4col: #FF4B6B;
   --headsubtextcol: rgba(255, 255, 255, 0.85);
   --acol: rgba(255,126,149, 0.7);       
   --afocus: rgba(255,126,149, 1);     
@@ -279,12 +279,12 @@ html[data-theme="dark"] {
   --postlinecol: rgba(255, 255, 255, 0.15);
   --postsubtextcol: rgba(255, 255, 255, .85);
   --postreadmorecol: rgba(255, 255, 255, .85);
-  --posthovercol: #ff98ab;
+  --posthovercol: #FF4B6B;
   --postdatecol: rgba(255, 255, 255, 0.6);
   /* --- Tags --- */
   --tagcol:  rgba(255, 255, 255, 0.6);
   --decorcol: #ce93d8;
-  --taglinkcol:  #ff98ab;
+  --taglinkcol:  #FF4B6B;
   --taglinkbackcol: rgba(255,126,149, 0.1);
   /* --- Post and page headers --- */
   --postheadercol: rgba(255, 255, 255, 0.85); 
@@ -293,7 +293,7 @@ html[data-theme="dark"] {
   --pagebuttonbackcol: #151515;
   --pagebuttoncolor: rgba(255, 255, 255, .85);
   --pagebuttonbordercol: transparent;
-  --pagelinkfocustextcol: #ff98ab;
+  --pagelinkfocustextcol: #FF4B6B;
   --pagelinkfocusbordercol: transparent;
   --pagelinkfocusbackcol: rgba(255,49,86, 0.3);
   /* --- Tables --- */
@@ -311,7 +311,7 @@ html[data-theme="dark"] {
   --codebordercol: #151515;
   --codeborderleftcol: rgba(255,49,86, 0.3);
   --codeborderrightcol: rgba(255,49,86, 0.3);
-  --codehighlighttextcol: #ff98ab;
+  --codehighlighttextcol: #FF4B6B;
   /* --- Notification boxes --- */
   --notifbordercol: transparent;
   --notebackcol: rgba(255,49,86, 0.2);
@@ -352,7 +352,7 @@ html[data-theme="dark"] {
     --h4col: #404040;
     --headsubtextcol: #404040;
     --acol: #FF3156;       
-    --afocus: #ff98ab;    
+    --afocus: #FF4B6B;    
     --ahover: #FF3156;     
     --blockqcol: #808080;                                         /* --- not sure --- */
     --selectiontextcol: white; 
@@ -371,7 +371,7 @@ html[data-theme="dark"] {
     /* --- Tags --- */
     --tagcol:  #999;
     --decorcol: #FF3156;
-    --taglinkcol:  #ff98ab;
+    --taglinkcol:  #FF4B6B;
     --taglinkbackcol: #EEE;
     /* --- Post and page headers --- */
     --postheadercol: #404040; 
