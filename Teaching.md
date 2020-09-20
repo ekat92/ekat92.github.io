@@ -30,143 +30,144 @@ subtitle: Instructor / TA
   
   <div class="card" style = "font-size:14pt">
     <center> 
-      <b> Instructor ${~\cdotp~}$ Money, Banking & Credit ${~\cdotp~}$ Summer 2020 ${~\cdotp~}$ Score: 5.0/5.0</b>
+      <b> Instructor ${~\cdotp~}$ Investments (The Stock Mkt) ${~\cdotp~}$ Summer 2020 ${~\cdotp~}$ Score: 4.77/5.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"The instructor utilized multiple techniques to help teach this course. I learned a lot through his lectures. He asked the students what worked best for them, and followed through on the techniques."</a><br/>
-  <a style = "font-size:12pt">"The lectures were very informative as he even gave us current real time examples that would help us understand the material even better. He definitely knew what approach he was taking before teaching and was very prepared. I would take his class again!"</a><br/>
-  <a style = "font-size:12pt">"This instructor has taught a clear and comprehensive class this summer. He was always prepared and taught the material in such a way that anyone who has only taken lower-division classes could understand. His teaching and explanations were thorough and his availability for office hours has punctual and assured."</a><br/>
-  <a style = "font-size:12pt">"Great professor. He also is very willing to help outside of class time with very quick replies. I hope to see him teach more in the future. Really enjoy the slides."</a><br/>
-  <a style = "font-size:12pt">"Professor Kutateladze was really good. The video lecture were very helpful, especially because I could pause to write down the material and go backwards if there was something that I missed."</a><br/>
-  <a style = "font-size:12pt">"Professor Varlam was extremely helpful and very productive in his teaching methods. He was always there for the students if we needed him on help for any question or type of material from the course."</a><br/>
+  <a style = "font-size:12pt">"Professor Seregina is a great instructor! Her lectures were very interesting and her way of teaching the course made it easy to understand concepts that I had seen in other classes that I didn't fully understand. I appreciate our Professor's efforts in holding live zoom lectures as well  as recordings of the lectures to accommodate students during this global pandemic. Professor Seregina provided as all the resources needed to pass her course and there were never any difficulty's with holding lectures. I think that out of all the instructors I had these past two quarters, Professor Seregina was the most prepared and flexible instructor during this pandemic. Professor Seregina is a great instructor and it is evident that she is passionate and dedicated to teaching!"</a><br/>
+  <a style = "font-size:12pt">"By far one of the best “professors” i have had if not the best. Complex problems are simplified and she leaves room for students to ask questions. Not only does she prepare us in the classroom but she assists us in preparing for real-life scenarios. In addition, the slides provided are easy to understand and she is extremely flexible in her teaching which makes her a great professor. When a student puts in effort into her homework and attends her lectures then they are rewarded with a higher grade. Simple as that."</a><br/>
+  <a style = "font-size:12pt">"I thoroughly enjoyed taking this class. Thank you for doing your best to accommodating towards students especially during this weird time as of now."</a><br/>
+  <a style = "font-size:12pt">"Professor Seregina has been very helpful throughout this pandemic. Above all else this class was organized efficiently and the material reviewed gave insight to real world problems. Homework was constructed based on the material gone over in lecture so there was never a time the lecture slides didn't have the answers. Even with the method to turn in test made it as stress-free as possible, she allowed us to either turn it in through ilearn but since difficulties arise we were allowed to email our responses. Overall this class was a very insightful class and i would definitely take another class taught by this professor."</a><br/>
+  <a style = "font-size:12pt">"I like how that the professor give detailed examples of the concepts we learned. I also liked how she presents the lessons through power points and post them. I also appreciate how she records the lessons and post them so I can watch them again."</a><br/>
+  <a style = "font-size:12pt">"This teacher was very helpful and responded to questions immediately. Strongly recommend taking her class."</a><br/>
+  <a style = "font-size:12pt">"Great lectures. some really good information i have learned."</a><br/>
+  </div>
+
+  <div class="card" style = "font-size:13pt">
+    <center> 
+      <b> Teaching Assistant ${~\cdotp~}$ PhD Advanced Econometrics ${~\cdotp~}$ Spring 2020 ${~\cdotp~}$ Score: 6.3/7.0</b>
+    </center> 
+  <hr class="new1" style="border-top: 2px solid grey">
+  <a style = "font-size:12pt">"Made the course understandable through her TA sessions and was always available to take up doubts. Thank you so much Kate."</a><br/>
+  <a style = "font-size:12pt">"Kate is doing a very good job as a TA. There is very little I can say for her to improve."</a><br/>
+  <a style = "font-size:12pt">"A really good teacher. She always tried to cover more material than just solving homeworks. She was comprehensive and helpful with several notes apart to the ones coveren in class."</a><br/>
   </div>
 
   <div class="card" style = "font-size:15pt">
     <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Stock Market ${~\cdotp~}$ Spring 2020 ${~\cdotp~}$ Score: 6.8/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Intermediate Macro ${~\cdotp~}$ Winter 2020 ${~\cdotp~}$ Score: 7.0/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"Always available to help and has a very quick response time to emails. Explains all concepts in real detail and breaks them down so they are easier to understand! EXCEPTIONAL work this quarter you're a hell of a TA."</a><br/>
-  <a style = "font-size:12pt">"Varlam is a super helpful TA with great and speedy response time. I've had to email him about problems I didn't understand, and he helped me a ton! I was able to understand the problems through his explanations and examples. All his walk-throughs on the homework problems were extremely helpful and by far, I think I was lucky to have him as my TA!"</a><br/>
-  <a style = "font-size:12pt">"Effective in explaining the relevancy of each concept, also effective in elaborating their purposes. Pacing is great, considering video presentation."</a><br/>
-  <a style = "font-size:12pt">"Econ TA's are always horrible. This is the first econ TA I've ever had who's good. Thank you for all the help!"</a><br/>
-  <a style = "font-size:12pt">"One of the best TA's I had. Explained step by step how to solve a problem & explained it in a way that broke down the financial jargon in ways I could actually understand & also made sure to explain why it was important. Overall, despite everything being remote, very effective teaching skills!"</a><br/>
-  <a style = "font-size:12pt">"I really liked how you broke everything down."</a><br/>
-  <a style = "font-size:12pt">"His teachings made it easier to understand the lectures and topics. He was clear on his explanations. Despite everything being converted to online, he effectively still taught the class."</a><br/>
-  <a style = "font-size:12pt">"Varlam was such a great TA. The way he is always willing to help his students made it easier for us to ask questions. He made this class so much better to understand. I loved this course and he is the part of the reason why."</a><br/>
-  </div>
-
-  <div class="card" style = "font-size:15pt">
-    <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Statistics ${~\cdotp~}$ Winter 2020 ${~\cdotp~}$ Score: 6.77/7.0</b>
-    </center> 
-  <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"Fair grader and super approachable person."</a><br/>
+  <a style = "font-size:12pt">"Great instructor."</a><br/>
   <a style = "font-size:12pt">"Great TA. Was very helpful with any questions I had and was also very helpful with the additional study session."</a><br/>
-  <a style = "font-size:12pt">"Overall you did a great job as a TA for this class. I felt a lot more confident going into both midterms after you went over example problems with the class and showed us how to apply the formulas we were taught in lecture. Thank you for taking the time to make sure that we all understood the material and providing help when needed."</a><br/>
-  <a style = "font-size:12pt">"Very approachable and friendly. Review sections were very helpful. Went above and beyond to try to help any students who didn't understand the material."</a><br/>
-  <a style = "font-size:12pt">"Overall great guy and great TA. Always sets us up for success and goes over quizzes, practice problems, and exams. Teaching method is very effective and that's why the exam scores curves are high. Also very funny and makes class enjoyable."</a><br/>
-  <a style = "font-size:12pt">"Hey Varlam, I feel like your class definitely taught me parts of 101 I wouldn't have understood. The class was definitely engaging, I liked how the environment of the class was chill. I like how you actively forced students to participate. haha. I appreciated how you gave me insight on your personal life, which is more important to me than learning basic economic statistics. At the end of the day, both you and me are growing to  reach our best potential, and I wish you nothing but the best. Good luck on your PHD, Best Regards."</a><br/>
-  <a style = "font-size:12pt">"Always available and taught what was needed. Definitely enjoyed him as a TA and learned a lot through section."</a><br/>
+  <a style = "font-size:12pt">"Ms. Kate makes the discussion a comfortable learning environment meaning the class itself is very straightforward and she goes directly into the material. This is all in a good way meaning she makes use of the time and also breaks down the material efficiently. Ms. Kate is very knowledgeable and makes the content easier to understand further. In addition, she also helps us prepare for midterm and quizzes. Very fun class!"</a><br/>
+  <a style = "font-size:12pt">"She is clearly instructor. Patient and careful."</a><br/>
   </div>
 
   <div class="card" style = "font-size:15pt">
     <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Statistics ${~\cdotp~}$ Fall 2020 ${~\cdotp~}$ Score: 6.5/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Statistics ${~\cdotp~}$ Fall 2019 ${~\cdotp~}$ Score: 6.63/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"Varlam is extremely helpful and made sure that we got the labs done on time explaining everything thoroughly and even going beyond by teaching us specific shortcuts to make our life easier."</a><br/>
-  <a style = "font-size:12pt">"Very chill TA and clarified lots of the lecture material."</a><br/>
-  <a style = "font-size:12pt">"Varlam was an excellent lab instructor! He clearly explained the labs and he was very kind and patient with the class. He was always willing to answer student's questions and he always made himself available for us! I would love to have him as a TA for a future economics class!"</a><br/>
-  <a style = "font-size:12pt">"He did his job. He taught us the material we needed to learn, and was constantly asking the class if he needed to reexplain anything."</a><br/>
+  <a style = "font-size:12pt">"Really helpful and clarified things that I was still not sure about in the class. Thanks to her I was able to lift my score in the second midterm."</a><br/>
+  <a style = "font-size:12pt">"As a TA, she is very good and would like to have her in future courses."</a><br/>
+  <a style = "font-size:12pt">"Learned most of the stuff in discussion and she helped clarify lots of the material."</a><br/>
+  <a style = "font-size:12pt">"Ekaterina was an excellent TA! She clearly explained the material that we were going over in class. She was always willing to answer student's questions. I also like how she responded to our emails and also offered help over the emails! I know that she truly cared for the students and she wanted all of us to do well in the Statistics class. I would definitely love to have her TA again for a future Economics class!"</a><br/>
+  </div>
+
+  <div class="card" style = "font-size:15pt">
+    <center> 
+      <b> Instructor ${~\cdotp~}$ Intermediate Macro ${~\cdotp~}$ Summer 2019 ${~\cdotp~}$ Score: 4.89/5.0</b>
+    </center> 
+  <hr class="new1" style="border-top: 2px solid grey">
+  <a style = "font-size:12pt">"She is a very nice professor. She taught the class very patiently. Giving us very clear study guide before the exam. She considers everyone's feeling, making sure everyone understand what she says before she moves on, And she did short review on each lecture to help students remind what she taught before."</a><br/>
+  <a style = "font-size:12pt">"Great work, by far one of the best professors teaching economics. Hopefully I can take her in the future because of her method of teaching. It was clear to the point and concise. She made sure that everyone understood the material and did the steps fully and clearly. \I appreciate the time and effort you put into the class."</a><br/>
+  <a style = "font-size:12pt">"This course was wonderful. Professor Kate did an excellent job introducing and explaining concepts, and showed us students how to learn from basics and implement them into more complex equations as the course carried on. Not only that, but she is also able to make students understand these concepts in 5 weeks! The handouts provided aided a lot in learning the material as well as preparing for exams. All the information in lecture was comprehensive and kept interesting. Professor Kate is definitely a must-have Professor for Econ105A."</a><br/>
+  <a style = "font-size:12pt">"Excellent teaching 10/10 would recommend!"</a><br/>
+  <a style = "font-size:12pt">"Very helpful. The notes and lectures were informative and indicative of what would be on the exams."</a><br/>
   </div>
 
   <div class="card" style = "font-size:14pt">
     <center> 
-      <b> Instructor ${~\cdotp~}$ Introductory Econometrics ${~\cdotp~}$ Summer 2019 ${~\cdotp~}$ Score: 4.0/5.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ PhD Advanced Macro ${~\cdotp~}$ Spring 2019 ${~\cdotp~}$ Score: 6.91/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"It was pleasure to meet him. Learning was quite fun with him even though materials are pretty tough. it has been honor. Thank you!"</a><br/>
-  <a style = "font-size:12pt">"This class is very difficult, Varlam is a good teacher but expects far too much from an accelerated Econometrics course. He has a lot of enthusiasm but does not realize that we are not on his level of understanding because he is (at least to me) an expert on Econometrics."</a><br/>
-  </div>
-
-  <div class="card" style = "font-size:13pt">
-    <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Introductory Econometrics ${~\cdotp~}$ Spring 2019 ${~\cdotp~}$ Score: 6.54/7.0</b>
-    </center> 
-  <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"Excellent TA. Always handled discussion impeccably. Held extra office hours to help students. Amazing."</a><br/>
-  <a style = "font-size:12pt">"I feel in the beginning it was hard to catch on to his lecture style, but then I found it very enjoyable in being able to identify the various questions he tends to ask the class."</a><br/>
-  <a style = "font-size:12pt">"He knows this subject can be very hard for a lot of us and was willing to answer any and all questions without making you feel like you were dumb. My current grade is totally due to his willingness to help."</a><br/>
-  <a style = "font-size:12pt">"You did a great job explaining complex concepts and problems in a way that was understandable."</a><br/>
-  <a style = "font-size:12pt">"He is concise with what he teaches us and is clear with his methods. It was a great experience. Thank you."</a><br/>
-  <a style = "font-size:12pt">"Varlam is an excellent TA. His class explanations are easy to follow and makes sure everyone understands complex topics to the best of his ability. Encourages students to constantly participate during discussion sessions and also knows how to handle students with various learning styles. Always accessible during office hours and excellent in communicating class/discussion/office hours changes to his students. He promptly responds via email when students have inquiries also. Overall a good experience that made Econ 107 bearable."</a><br/>
-  <a style = "font-size:12pt">"Great teaching!"</a><br/>
+  <a style = "font-size:12pt">"I deeply appreciate your help and effort during the course. Your session and office hours, even emails with proofs were all very helpful. I could always feel that you are doing your best and well prepared. I was lucky to have you as a TA. Thank you again. You are a really kind and hard working TA!"</a><br/>
+  <a style = "font-size:12pt">"Really helpful!"</a><br/>
+  <a style = "font-size:12pt">"I cannot understand the courses without Kate's help. She is the best!"</a><br/>
   </div>
 
   <div class="card" style = "font-size:15pt">
     <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Macroeconomics ${~\cdotp~}$ Winter 2019 ${~\cdotp~}$ Score: 6.38/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Intermediate Macro ${~\cdotp~}$ Winter 2019 ${~\cdotp~}$ Score: 7.0/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"Varlam is great at explaining material and is able to clarify things that were not clear during lecture."</a><br/>
-  <a style = "font-size:12pt">"Helped explain concepts that the professor didn't explain very well. Also was helpful with going over homework questions."</a><br/>
-  <a style = "font-size:12pt">"Clear and concise explanations of the material. Enjoyed going to his section."</a><br/>
-  <a style = "font-size:12pt">"Varlam pretty much help clear up a lot of the things I did not understand in lecture. Did a great job."</a><br/>
-  <a style = "font-size:12pt">"Varlam is a wonderful and effective TA. I really appreciate the way he teaches because it is incredibly effective. I wish I had more TA sessions with him."</a><br/>
-  <a style = "font-size:12pt">"Great! He felt more like my teacher then the teacher himself. The only reason I understand the material was him."</a><br/>
-  <a style = "font-size:12pt">"Was clear and concise in teaching material. Was recognizably knowledgeable about the course."</a><br/>
-  <a style = "font-size:12pt">"I would have not passed the two midterms if it had not been for Varlam. He was extremely helpful during office hours and did a pretty good job at explaining difficult concepts."</a><br/>
+  <a style = "font-size:12pt">"Ekaterina, You are wonderful! Please please please continue to be as great as you are. If there is any request It would be for you not to stop and continue doing what you are doing. To be more specific, I really like the way you go over the Handouts; not only you are telling us what to do but you are explaining concepts and giving useful examples. I like the examples and the structure you follow. I like how you emphasize in what is important to focus on. You have made a difference this quarter with your interest, dedication, and articulated teaching. You are a true TA! I feel that you will be a great professor in the future and I feel happy for the future student that will get to be guided by you. Thank you!"</a><br/>
+  <a style = "font-size:12pt">"Ekaterina Seregina is the definition of a terrific teaching assistant. She makes the material make sense, and I got to know her very well this past quarter. Economics 105A can be confusing somethings, but she provides strategies of how to solve each problem. I frequently went to her office hours instead of the professor’s office hours because of my availability. I hope that I will be one of her students again, and I am sad that she is not going to my teaching assistant next quarter."</a><br/>
+  <a style = "font-size:12pt">"Ekaterina is by far my best and most helpful discussion section T.A I have ever had. She was extremely clear in class and took the initiative to help us in anything we needed, even just a simple clarification. I think she was very straightforward and wanted to help us as much as she could and I appreciate that so much. She was also very fair and throughly explained everything. She was truly amazing."</a><br/>
+  <a style = "font-size:12pt">"Miss. Kate is professional in delivering class materials. Her command of English is appropriate and I do not have a problem with it. Prepares me for upcoming exams and suggest problems I can work on to practice/improve on. Very approachable and has a calm demeanor. Clarifies my doubt clearly and efficiently, and she is a fair grader."</a><br/>
+  <a style = "font-size:12pt">"VShe has honestly been one of the most helpful teaching assistants in the history of the economics department. She explains and teaches the material in the most simple ways for students to grasp the information. She also doesn't hesitate to reexplain material that students do not understand. She is also sympathetic to slower students and does not get annoyed when they have trouble. Her instructions are clear and succinct. I truly laud her for her great work."</a><br/>
+  <a style = "font-size:12pt">"Ekaterina is an amazing TA. She makes the economic functions easy to understand."</a><br/>
+  <a style = "font-size:12pt">"Thank you for all of your help you’re a really good teacher. The way you explained things helped me out so much and you’re one of the best TAs that’s I’ve had thank you"</a><br/>
+  <a style = "font-size:12pt">"Great TA. Explains every concept clearly and helps a lot with learning material that the professor reiterated."</a><br/>
+  <a style = "font-size:12pt">"Great teacher. Excellent at explaining and great at efficient use of time."</a><br/>
   </div>
 
-  <div class="card" style = "font-size:13pt">
+  <div class="card" style = "font-size:14pt">
     <center> 
-      <b> PhD Teaching Assistant ${~\cdotp~}$ Advanced Econometrics ${~\cdotp~}$ Fall 2019 ${~\cdotp~}$ Score: 6.69/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Investments (The Stock Mkt) ${~\cdotp~}$ Fall 2018 ${~\cdotp~}$ Score: 7.0/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"He is good at helping us forming a structure of all materials covered in lectures."</a><br/>
-  <a style = "font-size:12pt">"Varlam is very knowledgeable about the subject matter and was a good TA to have as a first year."</a><br/>
+  <a style = "font-size:12pt">"The best TA I have had so far. She should jus teach the course. made me feel more confident in my command of the subject matter than the professor. I wish I could take her for a class. awesome Human being!!"</a><br/>
+  <a style = "font-size:12pt">"If it was not for Ekaterina I probably would not understand the majority of the material taught in class. Her discussion sections were very helpful and included various examples that not only helped me understand but it also helped me grasp the material that was key for midterms."</a><br/>
+  <a style = "font-size:12pt">"The instructor is very knowledgeable in the the topic of discussion and provides thorough explanation of issues that were raised in class and discussion. The instructor provides an environment where students can express their thought without hesitation. The discussion class is great."</a><br/>
   </div>
 
   <div class="card" style = "font-size:15pt">
     <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Statistics ${~\cdotp~}$ Spring 2018 ${~\cdotp~}$ Score: 6.58/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Statistics ${~\cdotp~}$ Spring 2018 ${~\cdotp~}$ Score: 6.50/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"I would like to be confident like this TA."</a><br/>
-  <a style = "font-size:12pt">"He is great and very helpful!!!"</a><br/>
-  <a style = "font-size:12pt">"Great discussion. Very helpful with any topic brought to him."</a><br/>
+   <a style = "font-size:12pt">"She is incredible good!! I hope to see her as a professor at UCR some day"</a><br/>
+  <a style = "font-size:12pt">"Kate is the best TA ever. She goes through the material thoroughly and smoothly. She is always available and makes sure that the students understand the course. Excellent TA."</a><br/>
+  <a style = "font-size:12pt">"I really did not understand a lot of the material covered in lecture, but Kate did an amazing job explaining the step-by-step process of how to do each problem. I learned more from her in 45 minutes than I did in a week of attending lecture."</a><br/>
+  <a style = "font-size:12pt">"She was straight to the point, knew what she was she was taking about. And was understandable."</a><br/>
+  <a style = "font-size:12pt">"TA was super helpful and explained concepts very well."</a><br/>
   <a style = "font-size:12pt">"Strong understanding of the topic and makes it simple to understand."</a><br/>
-  <a style = "font-size:12pt">"Genuinely cares that the students understand that class material, which I respect."</a><br/>
-  <a style = "font-size:12pt">"Very helpful who knows what he is talking about."</a><br/>
-  <a style = "font-size:12pt">"Explains things super well and is easy to work with."</a><br/>
+  <a style = "font-size:12pt">"Kate did a great job at going through the required course material."</a><br/>
+  <a style = "font-size:12pt">"Ekaterina was a very good Student Instructor. She truly knew her information and made an effort in the class truly understanding the material. She would be willing to slow down and go back constantly to make sure everyone had a concise understanding of the material."</a><br/>
+  <a style = "font-size:12pt">"Great discussion. Very attentive to detail on various topics."</a><br/>
+  <a style = "font-size:12pt">"Explains material thoroughly and uses class time effectively."</a><br/>
+  <a style = "font-size:12pt">"Kate is a great TA, she really knows what she is talking about and explains the subject in the most understandable manner possible"</a><br/>
   </div>
 
-  <div class="card" style = "font-size:13pt">
+  <div class="card" style = "font-size:15pt">
     <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Introductory Econometrics ${~\cdotp~}$ Winter 2018 ${~\cdotp~}$ Score: 6.20/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Intermediate Macro ${~\cdotp~}$ Winter 2018 ${~\cdotp~}$ Score: 7.0/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"His teaching methods are great because it is extremely clear. He in detail explains examples, and goes beyond that and teaches how to use formulas and what they solve for. I learned so much from his lab class. I learned more in lab and discussion rather than lecture. I would take any lab that he teaches again because he is absolutely great at explaining and takes interest in teaching us."</a><br/>
-  <a style = "font-size:12pt">"Great lab TA. Was very effective at teaching STATA to us and explaining some of the finer details about econometrics that our professor would just gloss over or not tell us all about at all. Provide relevant examples and worked through them to show us how the work is supposed to be done."</a><br/>
-  <a style = "font-size:12pt">"The class is super helpful. I have tried using STATA by myself and I was lost. Thankfully, the TA teaches how to solve the problem and the steps/commands for STATA. Great TA, very helpful for the homework. Also, STATA was included in the tests so it was good exposure for us to use STATA and familiarize ourselves with the format."</a><br/>
+  <a style = "font-size:12pt">"More than amazing. This TA is effective, kind and highly intelligent. Truly a blessing"</a><br/>
+  <a style = "font-size:12pt">"Kate did a fantastic job reviewing the notes covered in lectures and explaining how practice problems were done. Her explanations were very detailed which made studying extremely easy. She was very organized and would address questions in a professional manner which the professor would approve of. Kate also did a great job of preparing us for exams by giving us tips and tricks to understanding the material."</a><br/>
+  <a style = "font-size:12pt">"Keep doing what you're doing."</a><br/>
+  <a style = "font-size:12pt">"Goes too fast during discussions, however, teaches very well. Thoroughly explained everything that is taught in lecture."</a><br/>
   <a style = "font-size:12pt">"I really appreciated how he would cover some of the homework assignments in lab."</a><br/>
-  <a style = "font-size:12pt">"Your instruction was invaluable to the PS and exams, thank you!"</a><br/>
-  <a style = "font-size:12pt">"Was very knowledgeable about the subject and approachable."</a><br/>
-  <a style = "font-size:12pt">"This instructor is very patient to answer student's questions. He is a nice person."</a><br/>
+  <a style = "font-size:12pt">"very good TA. hardworking and helpful. Very kind and excellent at giving all information needed to students."</a><br/>
+  <a style = "font-size:12pt">"EXCELLENT. She was always available during office hours and made sure you understood the answers to all the questions that you had. She was always polite and provided feedback to all the quizzes and midterm. She was magnificent in discussion as well. She was clear and used her time efficiently. I understood everything she went over during discussion. My only complaint would be is that she sometimes arrived late, but overall she was excellent."</a><br/>
   </div>
 
-  <div class="card" style = "font-size:13.5pt">
+  <div class="card" style = "font-size:15pt">
     <center> 
-      <b> Teaching Assistant ${~\cdotp~}$ Introductory Econometrics ${~\cdotp~}$ Fall 2017 ${~\cdotp~}$ Score: 5.81/7.0</b>
+      <b> Teaching Assistant ${~\cdotp~}$ Intro to Macro ${~\cdotp~}$ Fall 2017 ${~\cdotp~}$ Score: 6.21/7.0</b>
     </center> 
   <hr class="new1" style="border-top: 2px solid grey">
-  <a style = "font-size:12pt">"The TA was great he explained everything very well and was always willing to help during office hours."</a><br/>
-  <a style = "font-size:12pt">"Varlam helped explain how the equations were relevant to the STATA. He was very straightforward, which is helpful."</a><br/>
-  <a style = "font-size:12pt">"Overall, Varlam was a great TA. He helped us a lot with understanding the homework, and he made the course easier."</a><br/>
-  <a style = "font-size:12pt">"He's doing his best it's just that the professor gave too much work for him to handle. It's not his fault at all. He's a great TA and explains things pretty well."</a><br/>
-  <a style = "font-size:12pt">"Very good at explaining the material,it really helped with the homework that was assigned. There was a lot of material covered during lectures and I think he did a great job at helping me understand everything that was going on."</a><br/>
-  <a style = "font-size:12pt">"Varlam was engaged, prepared, and ready to help us ace the class. Keep it up!"</a><br/>
+  <a style = "font-size:12pt">"Ekaterina was amazing. You could see that she clearly understood the material and wanted her students to excel in macroeconomics ,perhaps that is why we all did so well on the exams. Unlike others, I saw her effort to translate all her thoughts to English before speaking as an opportunity to learn that there are no limits to what we can accomplish, if we just adapt to our environment"</a><br/>
+   <a style = "font-size:12pt">"There would be times where I would miss lectures for the class but as long as I showed up to the discussion the TA was very clear and helpful with teaching the material for the week and I would be able to do good on my quizzes and exams because of the TA."</a><br/>
+  <a style = "font-size:12pt">"The instructor's teaching skills were effective in clarifying the lectures and understand the steps to answering the discussion questions."</a><br/>
+  <a style = "font-size:12pt">"Went through the material at a steady pace so she wouldn't leave anyone behind. Explained how she got every answer, pleasant and welcoming."</a><br/>
+  <a style = "font-size:12pt">"Your discussion sections were really helpful for me. The combination of Professor Lang introducing concepts and you going over problems really reinforced the material. Even though we didn’t participate much, I really found this strategy helpful. Thanks for the wonderful quarter."</a><br/>
+  <a style = "font-size:12pt">"She is very straightforward with the content we needed to learn. I really liked her class."</a><br/>
+  <a style = "font-size:12pt">"The TA was very helpful in clarifying what we had learned in lecture. If we were confused, her review and examples were very helpful in understanding them."</a><br/>
+  <a style = "font-size:12pt">"overall, this was a great class. This class taught me a lot about macro Econ. This discussion covered a huge amount of work load that was confusing during lecture. I was pleased with this class."</a><br/>
+  <a style = "font-size:12pt">"This discussion class was very helpful in terms of preparing students for upcoming quizzes and tests. Taking notes in this class is very much encouraged as it helped me further with my understanding of the economic concepts. The instructor was always prepared and had a clear intention of what each class would be structured on. This made the class enjoyable and created a good learning environment."</a><br/>
   </div>
 
 </div>
