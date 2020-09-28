@@ -82,6 +82,43 @@ grid-row: 1/2;
     </center>
   </div>
 </div>
+
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, "Learning from Forecast Errors: A New Approach to Forecast Combination"</b> <i>(submitted to the International Journal of Forecasting)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">T</p>his paper studies forecast combination (as an expert system) using the precision matrix estimation of forecast errors when the latter admit the approximate factor model. This approach incorporates the facts that experts often use common sets of information and hence they tend to make common mistakes. This premise is evidenced in many empirical results. For example, the European Central Bank's Survey of Professional Forecasters on Euro-area real GDP growth demonstrates that the professional forecasters tend to <i>jointly</i> understate or overstate GDP growth. Motivated by this stylized fact, we develop a novel framework which exploits the factor structure of forecast errors and the sparsity in the precision matrix of the idiosyncratic components of the forecast errors. The proposed algorithm is called <i>Factor Graphical Model</i> (FGM). Our approach overcomes the challenge of obtaining the forecasts that contain unique information, which was shown to be necessary to achieve a "winning" forecast combination. In simulation, we demonstrate the merits of the FGM in comparison with the equal-weighted forecasts and the standard graphical methods in the literature. An empirical application to forecasting macroeconomic time series in big data environment highlights the advantage of the FGM approach in comparison with the existing methods of forecast combination. 
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="/pdfs/Forecastingabstract.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+      </div>
+</div>
+
+<span style="display:block; height: 0px;"></span>
+
+
+<div class="wrapper">
+  <div class="item1">
+    <b>V. Kutateladze, E. Seregina, "Fast and Efficient Data Science Techniques for Covid-19 Group Testing"</b> <i>(2020 NABE Tech Economics Conference: Virtual Poster Session: Finalist)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">R</p>esearchers and public officials tend to agree that until a vaccine is developed, stopping SARS-CoV-2 transmission is the name of the game. Testing is the key to preventing the spread, especially by asymptomatic individuals. With testing capacity restricted, group testing is an appealing alternative for comprehensive screening and has recently received FDA emergency authorization. This technique tests pools of individual samples, thereby often requiring fewer testing resources while potentially providing multiple folds of speedup. We approach group testing from a data science perspective and offer two contributions. First, we provide an extensive empirical comparison of modern group testing techniques based on simulated and real, laboratory data. Second, we propose a simple one-round method based on $\ell_1$-norm sparse recovery, which outperforms current state-of-the-art approaches at certain disease prevalence rates.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
 <span style="display:block; height: 0px;"></span>
 
 
@@ -114,24 +151,6 @@ grid-row: 1/2;
   <div class="item3">
     <center> 
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Projected Factor Graphical Models"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-<span style="display:block; height: 0px;"></span>
-
-
-<div class="wrapper">
-  <div class="item1">
-    <b>TH Lee, E. Seregina, "Learning from Forecast Errors: A New Approach to Forecast Combination"</b> <i>(submitted to the International Journal of Forecasting)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">T</p>his paper studies forecast combination (as an expert system) using the precision matrix estimation of forecast errors when the latter admit the approximate factor model. This approach incorporates the facts that experts often use common sets of information and hence they tend to make common mistakes. This premise is evidenced in many empirical results. For example, the European Central Bank's Survey of Professional Forecasters on Euro-area real GDP growth demonstrates that the professional forecasters tend to <i>jointly</i> understate or overstate GDP growth. Motivated by this stylized fact, we develop a novel framework which exploits the factor structure of forecast errors and the sparsity in the precision matrix of the idiosyncratic components of the forecast errors. The proposed algorithm is called <i>Factor Graphical Model</i> (FGM). Our approach overcomes the challenge of obtaining the forecasts that contain unique information, which was shown to be necessary to achieve a "winning" forecast combination. In simulation, we demonstrate the merits of the FGM in comparison with the equal-weighted forecasts and the standard graphical methods in the literature. An empirical application to forecasting macroeconomic time series in big data environment highlights the advantage of the FGM approach in comparison with the existing methods of forecast combination. 
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="/pdfs/Forecastingabstract.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
