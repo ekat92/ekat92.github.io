@@ -49,10 +49,10 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>E. Seregina, "Sparse Portfolios"</b> <i>(submitted to The Review of Financial Studies)</i>
+    <b>E. Seregina, "Sparse Portfolios"</b> <i>(submitted to The Journal of Financial and Quantitative Analysis)</i>
   </div>
   <div class="item2">
-    <p class="dropcap">T</p>he classical approach to portfolio optimization is notorious for producing undesirable extreme long and short positions due to inaccurate estimation of asset weights that fluctuate substantially over time. Besides, its asset allocations are associated with non-negligible transaction costs, high turnover and large monitoring costs. To overcome these shortcomings, we develop a novel optimization approach which produces sparse wealth allocations by setting some weights to zero using a penalty function. The proposed statistical method proceeds in two steps: first, it uses an $\ell_1$-penalty on the weight vector to select stocks, second, we apply de-biasing and post-lasso to obtain the optimal asset allocation weights. The main contribution is twofold: from the theoretical perspective, this paper establishes unbiasedness and consistency of the optimal sparse allocations in a high-dimensional setting, when the number of assets exceeds the sample size. We demonstrate the importance of the de-biasing step that has been overlooked in previous studies. From the empirical perspective, the application to the constituents of the S&P500 reveals that compared to the common strategy of holding all assets, our sparse portfolio strategy leads to lower risk, lower turnover, and higher out-of-sample Sharpe ratio. We illustrate that during several economic downturns including the dot-com bubble of 2000 and the financial crisis of 2007-09, our sparse de-biased estimator was the only model that produced positive cumulative excess return (CER) and did not exceed the target level of risk. In contrast, all non-sparse models produced negative CER and violated the risk constraint. This finding suggests that our de-biased sparse estimator exhibits desirable minimax properties: it minimizes the maximum risk level of a portfolio.
+    <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are suboptimal due to the bias induced by $\ell_1$-penalty; (2) require the number of assets to be less than the sample size; (3) do not model factor structure of stock returns in high dimensions. We address these shortcomings and develop a novel strategy which produces unbiased and consistent sparse allocations. We demonstrate that: (1) failing to correct for the bias leads to low out-of-sample portfolio return;  (2) only sparse portfolios achieved positive cumulative return during several economic downturns, including the dot-com bubble of 2000, the financial crisis of 2007-09, and COVID-19 outbreak.
   </div>
   <div class="item3">
     <center> 
@@ -106,7 +106,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>V. Kutateladze, E. Seregina, "Fast and Efficient Data Science Techniques for Covid-19 Group Testing"</b> <i>(2020 NABE Tech Economics Conference: Virtual Poster Session: Finalist)</i>
+    <b>V. Kutateladze, E. Seregina, "Fast and Efficient Data Science Techniques for Covid-19 Group Testing"</b> <i>(2020 NABE Tech Economics Conference: Virtual Poster Session: Winner)</i>
   </div>
   <div class="item2">
     <p class="dropcap">R</p>esearchers and public officials tend to agree that until a vaccine is developed, stopping SARS-CoV-2 transmission is the name of the game. Testing is the key to preventing the spread, especially by asymptomatic individuals. With testing capacity restricted, group testing is an appealing alternative for comprehensive screening and has recently received FDA emergency authorization. This technique tests pools of individual samples, thereby often requiring fewer testing resources while potentially providing multiple folds of speedup. We approach group testing from a data science perspective and offer two contributions. First, we provide an extensive empirical comparison of modern group testing techniques based on simulated and real, laboratory data. Second, we propose a simple one-round method based on $\ell_1$-norm sparse recovery, which outperforms current state-of-the-art approaches at certain disease prevalence rates.
