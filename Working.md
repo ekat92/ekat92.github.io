@@ -115,7 +115,9 @@ grid-row: 1/2;
     <center> 
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/covidslides.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+      <a href="/pdfs/covidslides.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/Covidposter.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Poster</b></a> 
     </center>
   </div>
 </div>
