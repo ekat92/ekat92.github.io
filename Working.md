@@ -49,7 +49,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>E. Seregina, "Sparse Portfolios"</b> <i>(submitted to The Journal of Financial and Quantitative Analysis)</i>
+    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(submitted to The Journal of Financial and Quantitative Analysis)</i>
   </div>
   <div class="item2">
     <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are suboptimal due to the bias induced by $\ell_1$-penalty; (2) require the number of assets to be less than the sample size; (3) do not model factor structure of stock returns in high dimensions. We address these shortcomings and develop a novel strategy which produces unbiased and consistent sparse allocations. We demonstrate that: (1) failing to correct for the bias leads to low out-of-sample portfolio return;  (2) only sparse portfolios achieved positive cumulative return during several economic downturns, including the dot-com bubble of 2000, the financial crisis of 2007-09, and COVID-19 outbreak.
