@@ -56,7 +56,7 @@ grid-row: 1/2;
   </div>
   <div class="item3">
     <center> 
-      <a href="/pdfs/JMP.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
@@ -76,7 +76,7 @@ grid-row: 1/2;
   </div>
   <div class="item3">
     <center> 
-      <a href="/pdfs/FGLabstract.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="https://arxiv.org/pdf/2011.00435.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
@@ -94,7 +94,7 @@ grid-row: 1/2;
   </div>
   <div class="item3">
     <center> 
-      <a href="/pdfs/Forecastingabstract.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="https://arxiv.org/pdf/2011.02077.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/LearningfromForecastErrorsSlides.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
@@ -113,7 +113,7 @@ grid-row: 1/2;
   </div>
   <div class="item3">
     <center> 
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="/pdfs/grouptesting.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/covidslides.pdf" type="button" class="btn btn-new btn-sm" title="Covid-19 Group Testing"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
       <span style="display:block; height: 7px;"></span>
