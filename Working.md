@@ -106,7 +106,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>V. Kutateladze, E. Seregina, "Fast and Efficient Data Science Techniques for Covid-19 Group Testing"</b> <i>(Revise and Resubmit, Journal of Data Science)</i>
+    <b>V. Kutateladze, E. Seregina, "Fast and Efficient Data Science Techniques for Covid-19 Group Testing"</b> <i>(Journal of Data Science, forthcoming, 2021)</i>
   </div>
   <div class="item2">
     <p class="dropcap">R</p>esearchers and public officials tend to agree that until a vaccine is developed, stopping SARS-CoV-2 transmission is the name of the game. Testing is the key to preventing the spread, especially by asymptomatic individuals. With testing capacity restricted, group testing is an appealing alternative for comprehensive screening and has recently received FDA emergency authorization. This technique tests pools of individual samples, thereby often requiring fewer testing resources while potentially providing multiple folds of speedup. We approach group testing from a data science perspective and offer two contributions. First, we provide an extensive empirical comparison of modern group testing techniques based on simulated and real, laboratory data. Second, we propose a simple one-round method based on $\ell_1$-norm sparse recovery, which outperforms current state-of-the-art approaches at certain disease prevalence rates.
