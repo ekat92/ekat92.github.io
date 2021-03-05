@@ -48,6 +48,10 @@ grid-row: 1/2;
 
 
 <div class="wrapper">
+ <div class="card" style = "font-size:14pt">
+    <center> 
+      <b> Publications </b>
+    </center> 
   <div class="item1">
     <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Under Review)</i>
   </div>
