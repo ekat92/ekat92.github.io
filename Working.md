@@ -46,61 +46,7 @@ grid-row: 1/2;
 } 
 </style>
 
-
-<div class="wrapper">
-  <div class="item1">
-    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Under Review)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are suboptimal due to the bias induced by $\ell_1$-penalty; (2) require the number of assets to be less than the sample size; (3) do not model factor structure of stock returns in high dimensions. We address these shortcomings and develop a novel strategy which produces unbiased and consistent sparse allocations. We demonstrate that: (1) failing to correct for the bias leads to low out-of-sample portfolio return;  (2) only sparse portfolios achieved positive cumulative return during several economic downturns, including the dot-com bubble of 2000, the financial crisis of 2007-09, and COVID-19 outbreak.
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-
-<span style="display:block; height: 0px;"></span>
-
-
-<div class="wrapper">
-  <div class="item1">
-    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Under Review)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">G</p>raphical models are a powerful tool to estimate a high-dimensional inverse covariance (<i>precision</i>) matrix, which has been applied for portfolio allocation problem. The assumption made by these models is a sparsity of the precision matrix. However, when the stock returns are driven by the common factors, this assumption does not hold.
-		Our paper develops a framework for estimating a high-dimensional precision matrix which combines the benefits of exploring the factor structure of the stock returns and the sparsity of the precision matrix of the factor-adjusted returns. The proposed algorithm is called <i>Factor Graphical Lasso</i> (FGL). We study a high-dimensional portfolio allocation problem when the asset returns admit the approximate factor model. In high dimensions, when the number of assets is large relative to the sample size, the sample covariance matrix of the excess returns is subject to the large estimation uncertainty, which leads to unstable solutions for portfolio weights. To resolve this issue, we consider the decomposition of low-rank and sparse components. This strategy allows us to consistently estimate the optimal portfolio in high dimensions, even when the covariance matrix is ill-behaved. We establish consistency of the portfolio weights in a high-dimensional setting <i>without assuming sparsity on the covariance or precision matrix of stock returns</i>. Our theoretical results and simulations demonstrate that FGL is robust to heavy-tailed distributions, which makes our method suitable for financial applications. The empirical application uses daily and monthly data for the constituents of the S&P500 to demonstrate superior performance of FGL compared to the equal-weighted portfolio, index and some prominent precision and covariance-based estimators. 
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://arxiv.org/pdf/2011.00435.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-
-<span style="display:block; height: 0px;"></span>
-
-<div class="wrapper">
-  <div class="item1">
-    <b>TH Lee, E. Seregina, "Learning from Forecast Errors: A New Approach to Forecast Combination"</b> <i>(Under Review)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">T</p>his paper studies forecast combination (as an expert system) using the precision matrix estimation of forecast errors when the latter admit the approximate factor model. This approach incorporates the facts that experts often use common sets of information and hence they tend to make common mistakes. This premise is evidenced in many empirical results. For example, the European Central Bank's Survey of Professional Forecasters on Euro-area real GDP growth demonstrates that the professional forecasters tend to <i>jointly</i> understate or overstate GDP growth. Motivated by this stylized fact, we develop a novel framework which exploits the factor structure of forecast errors and the sparsity in the precision matrix of the idiosyncratic components of the forecast errors. The proposed algorithm is called <i>Factor Graphical Model</i> (FGM). Our approach overcomes the challenge of obtaining the forecasts that contain unique information, which was shown to be necessary to achieve a "winning" forecast combination. In simulation, we demonstrate the merits of the FGM in comparison with the equal-weighted forecasts and the standard graphical methods in the literature. An empirical application to forecasting macroeconomic time series in big data environment highlights the advantage of the FGM approach in comparison with the existing methods of forecast combination. 
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://arxiv.org/pdf/2011.02077.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/LearningfromForecastErrorsSlides.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-      </div>
-</div>
-
+## Publications
 <span style="display:block; height: 0px;"></span>
 
 
@@ -122,18 +68,92 @@ grid-row: 1/2;
   </div>
 </div>
 <span style="display:block; height: 0px;"></span>
+## Working Papers
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Revise & Resubmit)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">G</p>raphical models are a powerful tool to estimate a high-dimensional inverse covariance (precision) matrix, which has been applied for a portfolio allocation problem. The assumption made by these models is a sparsity of the precision matrix. However, when stock returns are driven by common factors, such assumption does not hold. We address this limitation and develop a framework, Factor Graphical Lasso (FGL), which integrates graphical models with the factor structure in the context of portfolio allocation by decomposing a precision matrix into low-rank and sparse components. Our theoretical results and simulations show that FGL consistently estimates the portfolio weights and risk exposure and also that FGL is robust to heavy-tailed distributions which makes our method suitable for financial applications. FGL-based portfolios are shown to exhibit superior performance over several prominent competitors including equal-weighted and Index portfolios in the empirical application for the S&P500 constituents.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://arxiv.org/pdf/2011.00435.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+<div class="wrapper">
+  <div class="item1">
+    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Under Review)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are limited to low-dimensional setup when the number of assets is less than the sample size; (2) lack theoretical analysis of sparse wealth allocations and their impact on portfolio exposure; (3) are suboptimal due to the bias induced by an $\ell_1$-penalty. We address these shortcomings and develop an approach to construct sparse portfolios in high dimensions. Our contribution is twofold: from the theoretical perspective, we establish the oracle bounds of sparse weight estimators and provide guidance regarding their distribution. From the empirical perspective, we examine the merit of sparse portfolios during different market scenarios. We find that in contrast to non-sparse counterparts, our strategy is robust to recessions and can be used as a hedging vehicle during such times. 
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, "Learning from Forecast Errors: A New Approach to Forecast Combination"</b> <i>(Under Review)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">F</p>orecasters often use common information and hence make common mistakes. We propose a new approach, Factor Graphical Model (FGM), to forecast combinations that separates idiosyncratic forecast errors from the common errors. FGM exploits the factor structure of forecast errors and the sparsity of the precision matrix of the idiosyncratic errors. We prove the consistency of forecast combination weights and mean squared forecast error estimated using FGM, supporting the results with extensive simulations. Empirical applications to forecasting macroeconomic series shows that forecast combination using FGM outperforms combined forecasts using equal weights and graphical models without incorporating factor structure of forecast errors.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://arxiv.org/pdf/2011.02077.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/LearningfromForecastErrorsSlides.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+      </div>
+</div>
+
+<span style="display:block; height: 0px;"></span>
 
 
 <div class="wrapper">
   <div class="item1">
-    <b>E. Seregina, "Time-Varying Factor Graphical Models"</b>
+    <b>TH Lee, E. Seregina, "Time-Varying Factor Graphical Models"</b>
   </div>
   <div class="item2">
-    <p class="dropcap">A</p>t the beginning of COVID-19 outbreak, stock market was volatile, exhibiting sudden trend switches. As a result, using a long history of the past performance leads to large estimation errors. One efficient way to overcome this difficulty is to use the information extracted from higher frequency returns, e.g. daily data, to make longer term predictions of lower frequency returns, e.g. monthly data. Such strategy naturally augments the information set for the monthly data leading to decreased estimation errors and improved performance. This paper proposes to estimate the lower frequency precision matrix using higher frequency returns. In addition, we allow the dependence structure between stocks to change over time, which makes the proposed model more flexible. We call the proposed algoritm "Time-Varying Factor Graphical Model". Our model is solved using the alternating directions method of multipliers (ADMM), we derive closed-form solutions for the ADMM subproblems to further speed up the runtime.
+    <p class="dropcap">B</p>uilding a financial portfolio at the times of structural breaks, such as the one caused by COVID-19 outbreak, is challenging due to a bias-variance trade-off.  In such scenarios, using only post-break observations leads to unstable and volatile portfolio allocations, whereas using full sample but ignoring the break point leads to a large bias in portfolio weights estimates. One efficient way to overcome this difficulty is to account for the structural change and use both pre- and post-break observations. This paper proposes to estimate time-varying precision matrix for portfolio optimization problem using pre- and post-break data when the stock returns are driven by common factors. We allow portfolio weights to change over time which makes the model more flexible. We call the proposed
+algorithm ``Time-Varying Factor Graphical Model". Our model is solved using the alternating directions method of multipliers (ADMM), we derive closed-form solutions for the 
+ADMM subproblems to further speed up the runtime. 
   </div>
   <div class="item3">
     <center> 
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Time-Varying Factor Graphical Models"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
+
+<span style="display:block; height: 0px;"></span>
+
+
+<div class="wrapper">
+  <div class="item1">
+    <b>V. Kutateladze, E. Seregina, "High-Dimensional Covariance Estimation"</b>
+  </div>
+  <div class="item2">
+    <p class="dropcap">C</p>ovariance matrix estimates are required in a wide range of applied problems in multivariate data analysis, including portfolio and risk management in finance, factor models and testing in economics, and graphical models and classification in machine learning. In modern applications, where often the model dimensionality is comparable or even larger than the sample size, the classical sample covariance estimator lacks desirable properties, such as consistency, and suffers from eigenvalue spreading. In recent years, improved estimators have been proposed based on the idea of regularization. Specifically, such estimators, known as rotation-equivariant estimators, shrink the sample eigenvalues, while keeping the eigenvectors of the sample covariance estimator. In high dimensions, however, the sample eigenvectors will generally be strongly inconsistent, rendering eigenvalue shrinkage estimators suboptimal. We consider an estimator that goes beyond mere eigenvalue shrinkage and aims at precise estimation of eigenvectors in sparse settings, without requiring eigenvalues to diverge. The rate of convergence is provided in terms of spectral norm and it achieves the optimal rate under reasonable assumptions. We also provide a numerical simulation demonstrating the superior performance of the proposed estimator as compared to the competition.	
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="/pdfs/Covariance.pdf" type="button" class="btn btn-new btn-sm" title="High-Dimensional Covariance Estimation"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
