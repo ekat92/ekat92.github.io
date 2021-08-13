@@ -136,7 +136,7 @@ ADMM subproblems to further speed up the runtime.
     <center> 
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Time-Varying Factor Graphical Models"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+      <a href="/pdfs/shortpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
   </div>
 </div>
