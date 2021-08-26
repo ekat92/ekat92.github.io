@@ -149,7 +149,6 @@ subtitle: Instructor / TA
   <a style = "font-size:12pt">"Kate did a fantastic job reviewing the notes covered in lectures and explaining how practice problems were done. Her explanations were very detailed which made studying extremely easy. She was very organized and would address questions in a professional manner which the professor would approve of. Kate also did a great job of preparing us for exams by giving us tips and tricks to understanding the material."</a><br/>
   <a style = "font-size:12pt">"Keep doing what you're doing."</a><br/>
   <a style = "font-size:12pt">"Goes too fast during discussions, however, teaches very well. Thoroughly explained everything that is taught in lecture."</a><br/>
-  <a style = "font-size:12pt">"I really appreciated how he would cover some of the homework assignments in lab."</a><br/>
   <a style = "font-size:12pt">"very good TA. hardworking and helpful. Very kind and excellent at giving all information needed to students."</a><br/>
   <a style = "font-size:12pt">"EXCELLENT. She was always available during office hours and made sure you understood the answers to all the questions that you had. She was always polite and provided feedback to all the quizzes and midterm. She was magnificent in discussion as well. She was clear and used her time efficiently. I understood everything she went over during discussion. My only complaint would be is that she sometimes arrived late, but overall she was excellent."</a><br/>
   </div>
