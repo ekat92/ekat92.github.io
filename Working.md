@@ -73,7 +73,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Revise & Resubmit)</i>
+    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Revised & Resubmitted)</i>
   </div>
   <div class="item2">
     <p class="dropcap">G</p>raphical models are a powerful tool to estimate a high-dimensional inverse covariance (precision) matrix, which has been applied for a portfolio allocation problem. The assumption made by these models is a sparsity of the precision matrix. However, when stock returns are driven by common factors, such assumption does not hold. We address this limitation and develop a framework, Factor Graphical Lasso (FGL), which integrates graphical models with the factor structure in the context of portfolio allocation by decomposing a precision matrix into low-rank and sparse components. Our theoretical results and simulations show that FGL consistently estimates the portfolio weights and risk exposure and also that FGL is robust to heavy-tailed distributions which makes our method suitable for financial applications. FGL-based portfolios are shown to exhibit superior performance over several prominent competitors including equal-weighted and Index portfolios in the empirical application for the S&P500 constituents.
@@ -89,7 +89,7 @@ grid-row: 1/2;
 <span style="display:block; height: 0px;"></span>
 <div class="wrapper">
   <div class="item1">
-    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Under Review)</i>
+    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> 
   </div>
   <div class="item2">
     <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are limited to low-dimensional setup when the number of assets is less than the sample size; (2) lack theoretical analysis of sparse wealth allocations and their impact on portfolio exposure; (3) are suboptimal due to the bias induced by an $\ell_1$-penalty. We address these shortcomings and develop an approach to construct sparse portfolios in high dimensions. Our contribution is twofold: from the theoretical perspective, we establish the oracle bounds of sparse weight estimators and provide guidance regarding their distribution. From the empirical perspective, we examine the merit of sparse portfolios during different market scenarios. We find that in contrast to non-sparse counterparts, our strategy is robust to recessions and can be used as a hedging vehicle during such times. 
@@ -106,7 +106,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, "Learning from Forecast Errors: A New Approach to Forecast Combination"</b> <i>(Under Review)</i>
+    <b>TH Lee, E. Seregina, "Learning from Forecast Errors: A New Approach to Forecast Combination"</b>
   </div>
   <div class="item2">
     <p class="dropcap">F</p>orecasters often use common information and hence make common mistakes. We propose a new approach, Factor Graphical Model (FGM), to forecast combinations that separates idiosyncratic forecast errors from the common errors. FGM exploits the factor structure of forecast errors and the sparsity of the precision matrix of the idiosyncratic errors. We prove the consistency of forecast combination weights and mean squared forecast error estimated using FGM, supporting the results with extensive simulations. Empirical applications to forecasting macroeconomic series shows that forecast combination using FGM outperforms combined forecasts using equal weights and graphical models without incorporating factor structure of forecast errors.
