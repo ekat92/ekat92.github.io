@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: home
 title: Notes
 ---
@@ -40,5 +40,5 @@ title: Notes
   <!-- <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'> -->
   <!-- <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css"> -->
   <!-- <script src="jquery-3.1.1.min.js"></script> -->
-</head>
-
+<!-- </head>
+ -->

@@ -47,8 +47,50 @@ grid-row: 1/2;
 </style>
 
 ## Publications
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Forthcoming in the Journal of Financial Econometrics, 2023)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">G</p>raphical models are a powerful tool to estimate a high-dimensional inverse covariance (precision) matrix, which has been applied for a portfolio allocation problem. The assumption made by these models is a sparsity of the precision matrix. However, when stock returns are driven by common factors, such assumption does not hold. We address this limitation and develop a framework, Factor Graphical Lasso (FGL), which integrates graphical models with the factor structure in the context of portfolio allocation by decomposing a precision matrix into low-rank and sparse components. Our theoretical results and simulations show that FGL consistently estimates the portfolio weights and risk exposure and also that FGL is robust to heavy-tailed distributions which makes our method suitable for financial applications. FGL-based portfolios are shown to exhibit superior performance over several prominent competitors including equal-weighted and Index portfolios in the empirical application for the S&P500 constituents.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://arxiv.org/pdf/2011.00435.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
 <span style="display:block; height: 0px;"></span>
 
+<div class="wrapper">
+  <div class="item1">
+    <b>E. Seregina, "Graphical Models and their Interactions with Machine Learning in the Context of Economics and Finance"</b> <i>(In: Chan, F., Mátyás, L. (eds) Econometrics with Machine Learning. Advanced Studies in Theoretical and Applied Econometrics, vol 53. Springer, Cham.)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">M</p>any economic and financial systems, including financial markets, financial institutions, and macroeconomic policy making can be modelled as systems of interacting agents. Graphical models, which are the main focus of this chapter, are a means of estimating the relationships implied by such systems. The main goals of this chapter are (1) acquainting the readers with graphical models; (2) reviewing the existing research on graphical models for economic and finance problems; (3) reviewing the literature that merges graphical models with other machine learning methods in economics and finance.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://doi.org/10.1007/978-3-031-15149-1_8" type="button" class="btn btn-new btn-sm" title="Econometrics with Machine Learning"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, "Optimal Financial Portfolio Using Graphical Lasso Under Unstable Environment"</b> <i>(In JSM Proceedings, Statistical Learning and Data Science Section. 2021. Alexandria, VA: American Statistical Association)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">U</p>nstable environments raise challenges for constructing a financial portfolio. In such scenarios, it is unrealistic to assume constant portfolio weights, whereas estimating weights using only post-break observations omits the information prior to the break point. This paper visualizes stock returns as a network of interacting entities and generalizes network inference in the presence of structural breaks. We estimate time-varying portfolio weights using pre- and post-break data when the stock returns are driven by common factors. Using the example of a strong structural break caused by the first wave of COVID-19 pandemic, we demonstrate that combining pre- and post-break observations for estimating portfolio weights improves portfolio return and Sharpe Ratio compared to constant weights and weights that use only post-break observations.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://ww2.amstat.org/meetings/jsm/2021/proceedings/previewpapers.cfm?ID=319124_154481" type="button" class="btn btn-new btn-sm" title="FGL Under Unstable Environment"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
 
 <div class="wrapper">
   <div class="item1">
@@ -73,24 +115,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Revised & Resubmitted)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">G</p>raphical models are a powerful tool to estimate a high-dimensional inverse covariance (precision) matrix, which has been applied for a portfolio allocation problem. The assumption made by these models is a sparsity of the precision matrix. However, when stock returns are driven by common factors, such assumption does not hold. We address this limitation and develop a framework, Factor Graphical Lasso (FGL), which integrates graphical models with the factor structure in the context of portfolio allocation by decomposing a precision matrix into low-rank and sparse components. Our theoretical results and simulations show that FGL consistently estimates the portfolio weights and risk exposure and also that FGL is robust to heavy-tailed distributions which makes our method suitable for financial applications. FGL-based portfolios are shown to exhibit superior performance over several prominent competitors including equal-weighted and Index portfolios in the empirical application for the S&P500 constituents.
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://arxiv.org/pdf/2011.00435.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-<span style="display:block; height: 0px;"></span>
-
-<div class="wrapper">
-  <div class="item1">
-    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b>
+    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b> <i>(Revise and Resubmit)</i>
   </div>
   <div class="item2">
     <p class="dropcap">I</p>n this paper we develop a novel method of combining many forecasts based on a machine learning algorithm called Graphical LASSO. We visualize forecast errors from different forecasters as a network of interacting entities and generalize network inference in the presence of common factor structure and structural breaks. 
@@ -100,9 +125,7 @@ The empirical application to forecasting macroeconomic series using the data of 
   </div>
   <div class="item3">
     <center> 
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Learning from Forecast Errors"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+      <a href="https://arxiv.org/pdf/2209.01697.pdf" type="button" class="btn btn-new btn-sm" title="Combining Forecasts under Structural Breaks Using Graphical LASSO"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
     </center>
       </div>
 </div>
@@ -110,7 +133,7 @@ The empirical application to forecasting macroeconomic series using the data of 
 <span style="display:block; height: 0px;"></span>
 <div class="wrapper">
   <div class="item1">
-    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> 
+    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Revise and Resubmit)</i>
   </div>
   <div class="item2">
     <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are limited to low-dimensional setup when the number of assets is less than the sample size; (2) lack theoretical analysis of sparse wealth allocations and their impact on portfolio exposure; (3) are suboptimal due to the bias induced by an $\ell_1$-penalty. We address these shortcomings and develop an approach to construct sparse portfolios in high dimensions. Our contribution is twofold: from the theoretical perspective, we establish the oracle bounds of sparse weight estimators and provide guidance regarding their distribution. From the empirical perspective, we examine the merit of sparse portfolios during different market scenarios. We find that in contrast to non-sparse counterparts, our strategy is robust to recessions and can be used as a hedging vehicle during such times. 
@@ -120,6 +143,24 @@ The empirical application to forecasting macroeconomic series using the data of 
       <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+
+<div class="wrapper">
+  <div class="item1">
+    <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b>
+  </div>
+  <div class="item2">
+    <p class="dropcap">T</p>he sample covariance estimator lacks desirable properties in high-dimensional settings, as it suffers from inconsistency and eigenvalue spreading. In recent years, improved estimators have been proposed based on the idea of eigenvalue regularization. Such estimators shrink sample eigenvalues but retain the eigenvectors of the sample covariance estimator. In high dimensions, however, sample eigenvectors are generally strongly inconsistent, rendering eigenvalue shrinkage estimators suboptimal. We develop a Doubly Sparse Covariance Estimator (DSCE) that goes beyond mere eigenvalue shrinkage: a covariance matrix is decomposed into a signal part, where sparse eigenvectors are estimated via truncation, and an idiosyncratic part, estimated via thresholding. We show that accurate estimation is possible if the leading eigenvectors are sufficiently sparse affecting proportionately less than $\sqrt{p}$ of the variables. An empirical application to the constituents of the S\&P 1500 illustrates that DSCE-based portfolios outperform competing methods in terms of Sharpe ratio, maximum drawdown, and cumulative return for monthly and daily data.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="High-Dimensional Covariance Estimation"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
   </div>
 </div>
@@ -158,25 +199,6 @@ ADMM subproblems to further speed up the runtime.
       <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="Time-Varying Factor Graphical Models"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/shortpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-
-<span style="display:block; height: 0px;"></span>
-
-
-<div class="wrapper">
-  <div class="item1">
-    <b>V. Kutateladze, E. Seregina, "High-Dimensional Covariance Estimation"</b>
-  </div>
-  <div class="item2">
-    <p class="dropcap">C</p>ovariance matrix estimates are required in a wide range of applied problems in multivariate data analysis, including portfolio and risk management in finance, factor models and testing in economics, and graphical models and classification in machine learning. In modern applications, where often the model dimensionality is comparable or even larger than the sample size, the classical sample covariance estimator lacks desirable properties, such as consistency, and suffers from eigenvalue spreading. In recent years, improved estimators have been proposed based on the idea of regularization. Specifically, such estimators, known as rotation-equivariant estimators, shrink the sample eigenvalues, while keeping the eigenvectors of the sample covariance estimator. In high dimensions, however, the sample eigenvectors will generally be strongly inconsistent, rendering eigenvalue shrinkage estimators suboptimal. We consider an estimator that goes beyond mere eigenvalue shrinkage and aims at precise estimation of eigenvectors in sparse settings, without requiring eigenvalues to diverge. The rate of convergence is provided in terms of spectral norm and it achieves the optimal rate under reasonable assumptions. We also provide a numerical simulation demonstrating the superior performance of the proposed estimator as compared to the competition.	
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="/pdfs/Covariance.pdf" type="button" class="btn btn-new btn-sm" title="High-Dimensional Covariance Estimation"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
   </div>
 </div>
