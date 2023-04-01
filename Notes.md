@@ -1,6 +1,6 @@
-<!-- ---
+---
 layout: home
-title: Notes
+# title: Notes
 ---
 <style>
   .alert {
@@ -31,14 +31,20 @@ title: Notes
 
 <body>
 
-<div class="alert">
+<div class="text-center">
+  <h1>Whoops, this page doesn't exist.</h1>
+  <h1>Move along. (404 error)</h1>
+  <br/>
+
+  <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" />
+</div>
+<!-- <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
   <i class="fas fa-exclamation-circle fa-lg"></i><strong> This section is under development!</strong>
-</div>
+</div> -->
 
 <head>
   <!-- <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'> -->
   <!-- <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css"> -->
   <!-- <script src="jquery-3.1.1.min.js"></script> -->
-<!-- </head>
- -->
+</head>
