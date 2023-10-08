@@ -48,15 +48,47 @@ grid-row: 1/2;
 
 ## Publications
 <div class="wrapper">
+<div class="item1">
+    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Forthcoming in Quantitative Finance, 2023)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are limited to low-dimensional setup when the number of assets is less than the sample size; (2) lack theoretical analysis of sparse wealth allocations and their impact on portfolio exposure; (3) are suboptimal due to the bias induced by an $\ell_1$-penalty. We address these shortcomings and develop an approach to construct sparse portfolios in high dimensions. Our contribution is twofold: from the theoretical perspective, we establish the oracle bounds of sparse weight estimators and provide guidance regarding their distribution. From the empirical perspective, we examine the merit of sparse portfolios during different market scenarios. We find that in contrast to non-sparse counterparts, our strategy is robust to recessions and can be used as a hedging vehicle during such times. 
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Forthcoming in the Journal of Financial Econometrics, 2023)</i>
+    <b>TH Lee, E. Seregina, "Optimal Portfolio Using Factor Graphical Lasso"</b> <i>(Journal of Financial Econometrics, 2023)</i>
   </div>
   <div class="item2">
     <p class="dropcap">G</p>raphical models are a powerful tool to estimate a high-dimensional inverse covariance (precision) matrix, which has been applied for a portfolio allocation problem. The assumption made by these models is a sparsity of the precision matrix. However, when stock returns are driven by common factors, such assumption does not hold. We address this limitation and develop a framework, Factor Graphical Lasso (FGL), which integrates graphical models with the factor structure in the context of portfolio allocation by decomposing a precision matrix into low-rank and sparse components. Our theoretical results and simulations show that FGL consistently estimates the portfolio weights and risk exposure and also that FGL is robust to heavy-tailed distributions which makes our method suitable for financial applications. FGL-based portfolios are shown to exhibit superior performance over several prominent competitors including equal-weighted and Index portfolios in the empirical application for the S&P500 constituents.
   </div>
   <div class="item3">
     <center> 
-      <a href="https://arxiv.org/pdf/2011.00435.pdf" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="https://academic.oup.com/jfec/advance-article-abstract/doi/10.1093/jjfinec/nbad011/7116303" type="button" class="btn btn-new btn-sm" title="Optimal Portfolio Using Factor Graphical Lasso"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, Y. Xu " Elicitability and Encompassing for Volatility Forecasts by Bregman Functions"</b> <i>(In JSM Proceedings 2023. Toronto, Canada)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">I</p>n this paper, we construct a class of strictly consistent scoring functions based on the Bregman divergence measure, which jointly elicit the mean and variance. We use the scoring functions to develop a novel out-of-sample forecast encompassing test in volatility predictive models. We show the encompassing test is asymptotically normal. Simulation results demonstrate the merits of the proposed Bregman scoring functions and the forecast encompassing test. The forecast encompassing test exhibits a proper size and good power in finite samples. In an empirical application, we investigate the predictive ability of macroeconomic and financial variables in forecasting the equity premium volatility.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://doi.org/10.5281/zenodo.8396034" type="button" class="btn btn-new btn-sm" title="Elicitability and Encompassing for Volatility Forecasts"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
     </center>
   </div>
 </div>
@@ -131,24 +163,6 @@ The empirical application to forecasting macroeconomic series using the data of 
 </div>
 
 <span style="display:block; height: 0px;"></span>
-<div class="wrapper">
-  <div class="item1">
-    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Revise and Resubmit)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are limited to low-dimensional setup when the number of assets is less than the sample size; (2) lack theoretical analysis of sparse wealth allocations and their impact on portfolio exposure; (3) are suboptimal due to the bias induced by an $\ell_1$-penalty. We address these shortcomings and develop an approach to construct sparse portfolios in high dimensions. Our contribution is twofold: from the theoretical perspective, we establish the oracle bounds of sparse weight estimators and provide guidance regarding their distribution. From the empirical perspective, we examine the merit of sparse portfolios during different market scenarios. We find that in contrast to non-sparse counterparts, our strategy is robust to recessions and can be used as a hedging vehicle during such times. 
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-<span style="display:block; height: 0px;"></span>
-
-
 <div class="wrapper">
   <div class="item1">
     <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b>
