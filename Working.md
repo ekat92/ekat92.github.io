@@ -49,14 +49,14 @@ grid-row: 1/2;
 ## Publications
 <div class="wrapper">
 <div class="item1">
-    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Forthcoming in Quantitative Finance, 2023)</i>
+    <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Quantitative Finance 2023 (12), 1833-1852)</i>
   </div>
   <div class="item2">
     <p class="dropcap">T</p>he existing approaches to sparse wealth allocations (1) are limited to low-dimensional setup when the number of assets is less than the sample size; (2) lack theoretical analysis of sparse wealth allocations and their impact on portfolio exposure; (3) are suboptimal due to the bias induced by an $\ell_1$-penalty. We address these shortcomings and develop an approach to construct sparse portfolios in high dimensions. Our contribution is twofold: from the theoretical perspective, we establish the oracle bounds of sparse weight estimators and provide guidance regarding their distribution. From the empirical perspective, we examine the merit of sparse portfolios during different market scenarios. We find that in contrast to non-sparse counterparts, our strategy is robust to recessions and can be used as a hedging vehicle during such times. 
   </div>
   <div class="item3">
     <center> 
-      <a href="https://arxiv.org/pdf/2011.04278.pdf" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="https://doi.org/10.1080/14697688.2023.2269997" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
       <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
@@ -118,7 +118,7 @@ grid-row: 1/2;
   </div>
   <div class="item3">
     <center> 
-      <a href="https://ww2.amstat.org/meetings/jsm/2021/proceedings/previewpapers.cfm?ID=319124_154481" type="button" class="btn btn-new btn-sm" title="FGL Under Unstable Environment"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <a href="/pdfs/LeeandSereginaJSM2021.pdf" type="button" class="btn btn-new btn-sm" title="FGL Under Unstable Environment"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
     </center>
   </div>
 </div>
@@ -147,7 +147,7 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b> <i>(Revise and Resubmit)</i>
+    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b>
   </div>
   <div class="item2">
     <p class="dropcap">I</p>n this paper we develop a novel method of combining many forecasts based on a machine learning algorithm called Graphical LASSO. We visualize forecast errors from different forecasters as a network of interacting entities and generalize network inference in the presence of common factor structure and structural breaks. 
@@ -165,10 +165,27 @@ The empirical application to forecasting macroeconomic series using the data of 
 <span style="display:block; height: 0px;"></span>
 <div class="wrapper">
   <div class="item1">
-    <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b>
+    <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b> <i>(Revise and Resubmit)</i>
   </div>
   <div class="item2">
     <p class="dropcap">T</p>he sample covariance estimator lacks desirable properties in high-dimensional settings, as it suffers from inconsistency and eigenvalue spreading. In recent years, improved estimators have been proposed based on the idea of eigenvalue regularization. Such estimators shrink sample eigenvalues but retain the eigenvectors of the sample covariance estimator. In high dimensions, however, sample eigenvectors are generally strongly inconsistent, rendering eigenvalue shrinkage estimators suboptimal. We develop a Doubly Sparse Covariance Estimator (DSCE) that goes beyond mere eigenvalue shrinkage: a covariance matrix is decomposed into a signal part, where sparse eigenvectors are estimated via truncation, and an idiosyncratic part, estimated via thresholding. We show that accurate estimation is possible if the leading eigenvectors are sufficiently sparse affecting proportionately less than $\sqrt{p}$ of the variables. An empirical application to the constituents of the S\&P 1500 illustrates that DSCE-based portfolios outperform competing methods in terms of Sharpe ratio, maximum drawdown, and cumulative return for monthly and daily data.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="High-Dimensional Covariance Estimation"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+      <span style="display:block; height: 7px;"></span>
+      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, Y. Xu "Higher Order Elicitability and Forecast Encompassing for Volatility Forecasts by Bregman Functions"</b>
+  </div>
+  <div class="item2">
+    <p class="dropcap">M</p>ost papers in the literature on volatility forecast comparison use a scoring (loss) function that assumes that the conditional mean is zero and uses the realized variance as a proxy for true volatility. However, the rankings of volatility forecast models can be affected by the zero mean assumption and the finite sample quality of the proxy. In this paper, we construct a class of strictly consistent scoring functions based on the Bregman divergence measure, which can jointly elicit the mean and variance without the zero mean assumption and without using a proxy. We use the proposed Bregman scoring function to develop a forecast encompassing test for comparing the predictive ability of a large set of potential predictors in volatility forecast models. We also relate the Bregman score with the log score of the predictive Gaussian likelihood and compare them in terms of the finite sample properties (in size and power) of the forecast encompassing test. The simulation and empirical application demonstrate the merits of the proposed score functions and the encompassing test based on the Bregman score function and the log score.
   </div>
   <div class="item3">
     <center> 
