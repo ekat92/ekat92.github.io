@@ -49,6 +49,21 @@ grid-row: 1/2;
 ## Publications
 <div class="wrapper">
 <div class="item1">
+    <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b> <i>(Econometrics and Statistics, 2024)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">T</p>he classical sample covariance estimator lacks desirable properties such as consistency and suffers from eigenvalue spreading in high-dimensional settings. Improved estimators have been proposed that shrink sample eigenvalues but retain the eigenvectors of the sample covariance estimator. In high dimensions, however, sample eigenvectors are generally strongly inconsistent, rendering eigenvalue shrinkage estimators suboptimal. A Doubly Sparse Covariance Estimator (DSCE) is developed that goes beyond mere eigenvalue shrinkage: a covariance matrix is decomposed into a signal part, where sparse eigenvectors are estimated via truncation, and an idiosyncratic part, estimated via thresholding. It is shown that accurate estimation is possible if the leading eigenvectors are sufficiently sparse affecting proportionately less than $\sqrt{p}$ of the variables. DSCE fills the gap for empirical applications that fall in-between fully sparse settings and conditionally sparse settings: DSCE takes advantage of conditional sparsity implied by factor models while allowing only a subset of variables to load on factors, which relaxes pervasiveness assumption of traditional factor models. An empirical application to the constituents of the S&P 1500 illustrates that DSCE-based portfolios outperform competing methods in terms of Sharpe ratio, maximum drawdown, and cumulative return for monthly and daily data.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://doi.org/10.1016/j.ecosta.2024.06.001" type="button" class="btn btn-new btn-sm" title="Doubly Sparse Estimator for High-Dimensional Covariance Matrices"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+<div class="item1">
     <b>E. Seregina, "A Basket Half Full: Sparse Portfolios"</b> <i>(Quantitative Finance 2023 (12), 1833-1852)</i>
   </div>
   <div class="item2">
@@ -58,7 +73,7 @@ grid-row: 1/2;
     <center> 
       <a href="https://doi.org/10.1080/14697688.2023.2269997" type="button" class="btn btn-new btn-sm" title="Job Market Paper"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
       <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
+      <a href="/pdfs/JMPpres.pdf" type="button" class="btn btn-new btn-sm" title="Slides"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
     </center>
   </div>
 </div>
@@ -81,21 +96,6 @@ grid-row: 1/2;
 
 <div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, Y. Xu " Elicitability and Encompassing for Volatility Forecasts by Bregman Functions"</b> <i>(In JSM Proceedings 2023. Toronto, Canada)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">I</p>n this paper, we construct a class of strictly consistent scoring functions based on the Bregman divergence measure, which jointly elicit the mean and variance. We use the scoring functions to develop a novel out-of-sample forecast encompassing test in volatility predictive models. We show the encompassing test is asymptotically normal. Simulation results demonstrate the merits of the proposed Bregman scoring functions and the forecast encompassing test. The forecast encompassing test exhibits a proper size and good power in finite samples. In an empirical application, we investigate the predictive ability of macroeconomic and financial variables in forecasting the equity premium volatility.
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://doi.org/10.5281/zenodo.8396034" type="button" class="btn btn-new btn-sm" title="Elicitability and Encompassing for Volatility Forecasts"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-    </center>
-  </div>
-</div>
-<span style="display:block; height: 0px;"></span>
-
-<div class="wrapper">
-  <div class="item1">
     <b>E. Seregina, "Graphical Models and their Interactions with Machine Learning in the Context of Economics and Finance"</b> <i>(In: Chan, F., Mátyás, L. (eds) Econometrics with Machine Learning. Advanced Studies in Theoretical and Applied Econometrics, vol 53. Springer, Cham.)</i>
   </div>
   <div class="item2">
@@ -104,21 +104,6 @@ grid-row: 1/2;
   <div class="item3">
     <center> 
       <a href="https://doi.org/10.1007/978-3-031-15149-1_8" type="button" class="btn btn-new btn-sm" title="Econometrics with Machine Learning"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-    </center>
-  </div>
-</div>
-<span style="display:block; height: 0px;"></span>
-
-<div class="wrapper">
-  <div class="item1">
-    <b>TH Lee, E. Seregina, "Optimal Financial Portfolio Using Graphical Lasso Under Unstable Environment"</b> <i>(In JSM Proceedings, Statistical Learning and Data Science Section. 2021. Alexandria, VA: American Statistical Association)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">U</p>nstable environments raise challenges for constructing a financial portfolio. In such scenarios, it is unrealistic to assume constant portfolio weights, whereas estimating weights using only post-break observations omits the information prior to the break point. This paper visualizes stock returns as a network of interacting entities and generalizes network inference in the presence of structural breaks. We estimate time-varying portfolio weights using pre- and post-break data when the stock returns are driven by common factors. Using the example of a strong structural break caused by the first wave of COVID-19 pandemic, we demonstrate that combining pre- and post-break observations for estimating portfolio weights improves portfolio return and Sharpe Ratio compared to constant weights and weights that use only post-break observations.
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="/pdfs/LeeandSereginaJSM2021.pdf" type="button" class="btn btn-new btn-sm" title="FGL Under Unstable Environment"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
     </center>
   </div>
 </div>
@@ -142,12 +127,42 @@ grid-row: 1/2;
   </div>
 </div>
 <span style="display:block; height: 0px;"></span>
+## Proceedings
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, Y. Xu " Elicitability and Encompassing for Volatility Forecasts by Bregman Functions"</b> <i>(In JSM Proceedings 2023. Toronto, Canada)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">I</p>n this paper, we construct a class of strictly consistent scoring functions based on the Bregman divergence measure, which jointly elicit the mean and variance. We use the scoring functions to develop a novel out-of-sample forecast encompassing test in volatility predictive models. We show the encompassing test is asymptotically normal. Simulation results demonstrate the merits of the proposed Bregman scoring functions and the forecast encompassing test. The forecast encompassing test exhibits a proper size and good power in finite samples. In an empirical application, we investigate the predictive ability of macroeconomic and financial variables in forecasting the equity premium volatility.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://doi.org/10.5281/zenodo.8396034" type="button" class="btn btn-new btn-sm" title="Elicitability and Encompassing for Volatility Forecasts"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
+    <b>TH Lee, E. Seregina, "Optimal Financial Portfolio Using Graphical Lasso Under Unstable Environment"</b> <i>(In JSM Proceedings, Statistical Learning and Data Science Section. 2021. Alexandria, VA: American Statistical Association)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">U</p>nstable environments raise challenges for constructing a financial portfolio. In such scenarios, it is unrealistic to assume constant portfolio weights, whereas estimating weights using only post-break observations omits the information prior to the break point. This paper visualizes stock returns as a network of interacting entities and generalizes network inference in the presence of structural breaks. We estimate time-varying portfolio weights using pre- and post-break data when the stock returns are driven by common factors. Using the example of a strong structural break caused by the first wave of COVID-19 pandemic, we demonstrate that combining pre- and post-break observations for estimating portfolio weights improves portfolio return and Sharpe Ratio compared to constant weights and weights that use only post-break observations.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="/pdfs/LeeandSereginaJSM2021.pdf" type="button" class="btn btn-new btn-sm" title="FGL Under Unstable Environment"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
 ## Working Papers
 <span style="display:block; height: 0px;"></span>
 
 <div class="wrapper">
   <div class="item1">
-    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b>
+    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b> <i>(Submitted)</i>
   </div>
   <div class="item2">
     <p class="dropcap">I</p>n this paper we develop a novel method of combining many forecasts based on a machine learning algorithm called Graphical LASSO. We visualize forecast errors from different forecasters as a network of interacting entities and generalize network inference in the presence of common factor structure and structural breaks. 
@@ -161,24 +176,6 @@ The empirical application to forecasting macroeconomic series using the data of 
     </center>
       </div>
 </div>
-
-<span style="display:block; height: 0px;"></span>
-<div class="wrapper">
-  <div class="item1">
-    <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b> <i>(Revise and Resubmit)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">T</p>he sample covariance estimator lacks desirable properties in high-dimensional settings, as it suffers from inconsistency and eigenvalue spreading. In recent years, improved estimators have been proposed based on the idea of eigenvalue regularization. Such estimators shrink sample eigenvalues but retain the eigenvectors of the sample covariance estimator. In high dimensions, however, sample eigenvectors are generally strongly inconsistent, rendering eigenvalue shrinkage estimators suboptimal. We develop a Doubly Sparse Covariance Estimator (DSCE) that goes beyond mere eigenvalue shrinkage: a covariance matrix is decomposed into a signal part, where sparse eigenvectors are estimated via truncation, and an idiosyncratic part, estimated via thresholding. We show that accurate estimation is possible if the leading eigenvectors are sufficiently sparse affecting proportionately less than $\sqrt{p}$ of the variables. An empirical application to the constituents of the S\&P 1500 illustrates that DSCE-based portfolios outperform competing methods in terms of Sharpe ratio, maximum drawdown, and cumulative return for monthly and daily data.
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="High-Dimensional Covariance Estimation"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-      <span style="display:block; height: 7px;"></span>
-      <a href="/pdfs/CV.pdf" type="button" class="btn btn-new btn-sm" title="CV"><i class="fas fa-file-pdf fa-lg"></i><b> Slides</b></a>
-    </center>
-  </div>
-</div>
-<span style="display:block; height: 0px;"></span>
 
 <div class="wrapper">
   <div class="item1">
