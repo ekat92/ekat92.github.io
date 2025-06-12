@@ -49,6 +49,24 @@ grid-row: 1/2;
 ## Publications
 <div class="wrapper">
 <div class="item1">
+    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b> <i>(International Journal of Forecasting, 2025)</i>
+  </div>
+  <div class="item2">
+    <p class="dropcap">I</p>n this paper we develop a novel method of combining many forecasts based on Graphical LASSO. We represent forecast errors from different forecasters as a network of interacting entities and generalize network inference in the presence of common factor structure and structural breaks. 
+First, we note that forecasters often use common information and hence make common errors, which makes the forecast errors exhibit common factor structures. We separate common forecast errors from the idiosyncratic errors and exploit sparsity of the precision matrix of the latter.
+Second, since the network of experts changes over time as a response to unstable environments, we propose Regime-Dependent Factor Graphical LASSO (RD-FGL) that allows factor loadings and idiosyncratic precision matrix to be regime-dependent.
+The empirical applications to forecasting macroeconomic series using the data of the European Central Bank's Survey of Professional Forecasters and Federal Reserve Economic Data monthly database demonstrate superior performance of a combined forecast using RD-FGL.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://doi.org/10.1016/j.ijforecast.2025.04.003" type="button" class="btn btn-new btn-sm" title="Combining Forecasts under Structural Breaks Using GLASSO"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+<div class="item1">
     <b>V. Kutateladze, E. Seregina, "Doubly Sparse Estimator for High-Dimensional Covariance Matrices"</b> <i>(Econometrics and Statistics, 2024)</i>
   </div>
   <div class="item2">
@@ -159,23 +177,6 @@ grid-row: 1/2;
 <span style="display:block; height: 0px;"></span>
 ## Working Papers
 <span style="display:block; height: 0px;"></span>
-
-<div class="wrapper">
-  <div class="item1">
-    <b>TH Lee, E. Seregina, "Combining Forecasts under Structural Breaks Using Graphical LASSO"</b> <i>(Submitted)</i>
-  </div>
-  <div class="item2">
-    <p class="dropcap">I</p>n this paper we develop a novel method of combining many forecasts based on a machine learning algorithm called Graphical LASSO. We visualize forecast errors from different forecasters as a network of interacting entities and generalize network inference in the presence of common factor structure and structural breaks. 
-First, we note that forecasters often use common information and hence make common mistakes, which makes the forecast errors exhibit common factor structures. We propose the Factor Graphical LASSO (Factor GLASSO), which separates common forecast errors from the idiosyncratic errors and exploits sparsity of the precision matrix of the latter.
-Second, since the network of experts changes over time as a response to unstable environments such as recessions, it is unreasonable to assume constant forecast combination weights. Hence, we propose Regime-Dependent Factor Graphical LASSO (RD-Factor GLASSO) and develop its scalable implementation using the Alternating Direction Method of Multipliers (ADMM) to estimate regime-dependent forecast combination weights.
-The empirical application to forecasting macroeconomic series using the data of the European Central Bank's Survey of Professional Forecasters (ECB SPF) demonstrates superior performance of a combined forecast using Factor GLASSO and RD-Factor GLASSO over forecast combinations using equal weights.
-  </div>
-  <div class="item3">
-    <center> 
-      <a href="https://arxiv.org/pdf/2209.01697.pdf" type="button" class="btn btn-new btn-sm" title="Combining Forecasts under Structural Breaks Using Graphical LASSO"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
-    </center>
-      </div>
-</div>
 
 <div class="wrapper">
   <div class="item1">
