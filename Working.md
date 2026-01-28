@@ -180,6 +180,21 @@ The empirical applications to forecasting macroeconomic series using the data of
 
 <div class="wrapper">
   <div class="item1">
+    <b>A. Brini, E. Seregina "A Nonlinear Target-Factor Model with Attention Mechanism for Mixed-Frequency Data"</b>
+  </div>
+  <div class="item2">
+    <p class="dropcap">W</p>e propose Mixed-Panels-Transformer Encoder (MPTE), a novel framework for estimating factor models in panel datasets with mixed frequencies and nonlinear signals. Traditional factor models rely on linear signal extraction and require homogeneous sampling frequencies, limiting their applicability to modern high-dimensional datasets where variables are observed at different temporal resolutions. Our approach leverages Transformer-style attention mechanisms to enable context-aware signal construction through flexible, data-dependent weighting schemes that replace fixed linear combinations with adaptive reweighting based on similarity and relevance. We extend classical principal component analysis (PCA) to accommodate general temporal and cross-sectional attention matrices, allowing the model to learn how to aggregate information across frequencies without manual alignment or pre-specified weights. For linear activation functions, we establish consistency and asymptotic normality of factor and loading estimators, showing that our framework nests Target PCA as a special case while providing efficiency gains through transfer learning across auxiliary datasets. The nonlinear extension uses a Transformer architecture to capture complex hierarchical interactions while preserving the theoretical foundations. In simulations, MPTE demonstrates superior performance in nonlinear environments, and in an empirical application to 13 macroeconomic forecasting targets using a selected set of 48 monthly and quarterly series from the FRED-MD and FRED-QD databases, our method achieves competitive performance against established benchmarks. We further analyze attention patterns and systematically ablate model components to assess variable importance and temporal dependence. The resulting patterns highlight which indicators and horizons are most influential for forecasting.
+  </div>
+  <div class="item3">
+    <center> 
+      <a href="https://arxiv.org/pdf/2601.16274" type="button" class="btn btn-new btn-sm" title="Factor Model with Attention"><i class="fas fa-file-pdf fa-lg"></i><b> Paper</b></a> 
+    </center>
+  </div>
+</div>
+<span style="display:block; height: 0px;"></span>
+
+<div class="wrapper">
+  <div class="item1">
     <b>TH Lee, E. Seregina, Y. Xu "Higher Order Elicitability and Forecast Encompassing for Volatility Forecasts by Bregman Functions"</b>
   </div>
   <div class="item2">

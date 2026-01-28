@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: Instructor / TA
+subtitle: Instructor
 ---
 <style>
 .card {
@@ -27,8 +27,115 @@ subtitle: Instructor / TA
 
 
 <div class="cards">
-  
+
+<div class="card" style = "font-size:14pt">
+    <center> 
+      <b> Corporate Finance I (EC211) ${~\cdotp~}$ ~ 30 students per section </b>
+    </center> 
+  <hr class="new1" style="border-top: 2px solid grey">
+  <a style = "font-size:12pt"> This course is aimed at introducing the principles of corporate finance and its applications. These principles are essential to understanding the nature of how corporations present their financial condition, finance themselves and manage their financial risks. Four building blocks studied in the course are (1) review of financial statement analysis; (2) valuation of future cash flows; (3) capital budgeting; (4) risk and return. While making optimal corporate financial decisions is the main focus of the course, along the way students will learn skills that will guide you in your personal financial decisions as well. The tools learned in this course allow students to assess whether an investment is worthwhile, how it might be improved, and how it might be funded.</a><br/>
+  <p><b>Learning Goals:</b></p>
+
+<ul style="font-size:12pt; margin-top:-8px">
+  <li>
+    Develop a conceptual framework for examining a firm’s investment and
+    financial decisions.
+  </li>
+  <li>
+    Become familiar with the basics of investing and personal finance management.
+  </li>
+  <li>
+    Become familiar with the analytical techniques used in finance.
+  </li>
+  <li>
+    Calculate the present and future values of a lump sum or a series of cash
+    flows.
+  </li>
+  <li>
+    Differentiate the characteristics of stocks and bonds and estimate their
+    prices.
+  </li>
+  <li>
+    Become acquainted with the basics of portfolio management.
+  </li>
+</ul>
+
+  </div>
+
   <div class="card" style = "font-size:14pt">
+    <center> 
+      <b> Corporate Finance II (EC311) ${~\cdotp~}$ ~ 22 students per section </b>
+    </center> 
+  <hr class="new1" style="border-top: 2px solid grey">
+  <a style = "font-size:12pt"> This course is a continuation of EC211 but we move onto more specific topics of firm/project valuation, financing, and LBO modeling which constitute three building blocks studied in the course. Each block contains two components: theoretical and practical. The former introduces students to financial ``language" and models, whereas the latter equips students with the tools that are currently expected of analysts in entry level positions in financial services industry and academic research. Depending on the pace of the progress of the class, please expect to use Excel and the elements of basic programming using Python for data fetching and visualization.</a><br/>
+    <p><b>Learning Goals:</b> </p>
+
+  <ul style="font-size:12pt; margin-top:-8px">
+    <li>Understand and solve typical capital budgeting and project analysis questions that firms face.</li>
+    <li>Understand (i) how a firm should choose the set of securities it issues to raise capital and (ii) whether capital structure affects firm value.</li>
+    <li>Become familiar with the basics of pricing for financial and real options.</li>
+    <li>Learn techniques firms use to manage risk and minimize its impact on firm value.</li>
+    <li>Understand how leveraged buyouts (LBOs) work in practice and the sources of LBO value creation.</li>
+  </ul>
+  </div>
+
+  <div class="card" style = "font-size:14pt">
+    <center> 
+      <b> Financial Technology (EC477) ${~\cdotp~}$ ~ 15 students per section </b>
+    </center> 
+  <hr class="new1" style="border-top: 2px solid grey">
+  <a style = "font-size:12pt"> We examine how technological advances have reconfigured the current state of financial industry and how they are set to shape the future of finance and business. The course examines the primary FinTech data science methods and tools and their applications to real FinTech questions, such as algorithmic trading. Students will learn how to extract and harness data with Artificial Intelligence and Machine Learning using open APIs and Python. We explore how blockchain and cryptocurrency have transformed personal finance, banking, and payments industries. Attention will be given to the limits, risks, and broader policy and social implications of FinTech.</a><br/>
+  <p><b>Learning Goals:</b> </p>
+
+<ul style="font-size:12pt; margin-top:-8px">
+  <li>
+    Learn the core fundamentals of financial engineering, from exploratory data
+    analysis to predicting stock returns and backtesting/forward-testing
+    trading strategies.
+  </li>
+  <li>
+    Learn the fundamentals of Decentralized Finance (DeFi) infrastructure,
+    including the basics of digital assets and blockchain, and understand the
+    role of crypto as an asset class.
+  </li>
+  <li>
+    Learn the fundamentals of investing and banking in the DeFi era: understand
+    the building blocks of robo-advising, the consumer credit landscape, the
+    promise and conceptual challenges of crowdfunding, and the evolution of
+    peer-to-peer (P2P) lending.
+  </li>
+  <li>
+    Become confident in communicating your analysis and views on diverse
+    FinTech topics to a variety of audiences across a range of formats.
+  </li>
+</ul>
+<p style="font-size:12pt; margin-top:10px;">
+  <b>Check out selected final projects by my students:</b><br/>
+  
+  • <a href="https://sites.google.com/colby.edu/it-spend-is-it-worth-it/home" target="_blank">
+    <u>IT Spend: Is It Worth It?</u> (Revisiting the Solow Paradox in Modern Financial Firms by <i>Jasper Paez ’26</i>)
+  </a><br/>
+  • <a href="https://yzero.ink/goose_chase_brutalist.html" target="_blank">
+    <u>Goose Chase</u> (Interactive Exploration of Intraday Predictability and Trading Incentives by <i>Dean Palermo ’26</i>)
+  </a>
+</p>
+  </div>
+
+<!-- <div class="card" style = "font-size:14pt">
+    <center> 
+      <b> Instructor ${~\cdotp~}$ Investments (The Stock Mkt) ${~\cdotp~}$ Summer 2020 ${~\cdotp~}$ Score: 4.77/5.0</b>
+    </center> 
+  <hr class="new1" style="border-top: 2px solid grey">
+  <a style = "font-size:12pt">"Professor Seregina is a great instructor! Her lectures were very interesting and her way of teaching the course made it easy to understand concepts that I had seen in other classes that I didn't fully understand. I appreciate our Professor's efforts in holding live zoom lectures as well  as recordings of the lectures to accommodate students during this global pandemic. Professor Seregina provided as all the resources needed to pass her course and there were never any difficulty's with holding lectures. I think that out of all the instructors I had these past two quarters, Professor Seregina was the most prepared and flexible instructor during this pandemic. Professor Seregina is a great instructor and it is evident that she is passionate and dedicated to teaching!"</a><br/>
+  <a style = "font-size:12pt">"By far one of the best “professors” i have had if not the best. Complex problems are simplified and she leaves room for students to ask questions. Not only does she prepare us in the classroom but she assists us in preparing for real-life scenarios. In addition, the slides provided are easy to understand and she is extremely flexible in her teaching which makes her a great professor. When a student puts in effort into her homework and attends her lectures then they are rewarded with a higher grade. Simple as that."</a><br/>
+  <a style = "font-size:12pt">"I thoroughly enjoyed taking this class. Thank you for doing your best to accommodating towards students especially during this weird time as of now."</a><br/>
+  <a style = "font-size:12pt">"Professor Seregina has been very helpful throughout this pandemic. Above all else this class was organized efficiently and the material reviewed gave insight to real world problems. Homework was constructed based on the material gone over in lecture so there was never a time the lecture slides didn't have the answers. Even with the method to turn in test made it as stress-free as possible, she allowed us to either turn it in through ilearn but since difficulties arise we were allowed to email our responses. Overall this class was a very insightful class and i would definitely take another class taught by this professor."</a><br/>
+  <a style = "font-size:12pt">"I like how that the professor give detailed examples of the concepts we learned. I also liked how she presents the lessons through power points and post them. I also appreciate how she records the lessons and post them so I can watch them again."</a><br/>
+  <a style = "font-size:12pt">"This teacher was very helpful and responded to questions immediately. Strongly recommend taking her class."</a><br/>
+  <a style = "font-size:12pt">"Great lectures. some really good information i have learned."</a><br/>
+  </div> -->
+  
+  <!-- <div class="card" style = "font-size:14pt">
     <center> 
       <b> Instructor ${~\cdotp~}$ Investments (The Stock Mkt) ${~\cdotp~}$ Summer 2020 ${~\cdotp~}$ Score: 4.77/5.0</b>
     </center> 
@@ -167,6 +274,6 @@ subtitle: Instructor / TA
   <a style = "font-size:12pt">"The TA was very helpful in clarifying what we had learned in lecture. If we were confused, her review and examples were very helpful in understanding them."</a><br/>
   <a style = "font-size:12pt">"overall, this was a great class. This class taught me a lot about macro Econ. This discussion covered a huge amount of work load that was confusing during lecture. I was pleased with this class."</a><br/>
   <a style = "font-size:12pt">"This discussion class was very helpful in terms of preparing students for upcoming quizzes and tests. Taking notes in this class is very much encouraged as it helped me further with my understanding of the economic concepts. The instructor was always prepared and had a clear intention of what each class would be structured on. This made the class enjoyable and created a good learning environment."</a><br/>
-  </div>
+  </div> -->
 
 </div>
